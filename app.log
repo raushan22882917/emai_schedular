@@ -1,0 +1,1060 @@
+2024-11-09 15:44:50,336 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-09 15:44:50,337 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-09 15:44:50,338 - INFO -  * Restarting with stat
+2024-11-09 15:44:52,065 - WARNING -  * Debugger is active!
+2024-11-09 15:44:52,076 - INFO -  * Debugger PIN: 953-426-833
+2024-11-09 15:47:58,412 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\app.py', reloading
+2024-11-09 15:47:58,590 - INFO -  * Restarting with stat
+2024-11-09 15:48:00,457 - WARNING -  * Debugger is active!
+2024-11-09 15:48:00,463 - INFO -  * Debugger PIN: 953-426-833
+2024-11-09 15:48:09,505 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-09 15:48:09,505 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-09 15:48:09,507 - INFO -  * Restarting with stat
+2024-11-09 15:48:10,811 - WARNING -  * Debugger is active!
+2024-11-09 15:48:10,818 - INFO -  * Debugger PIN: 953-426-833
+2024-11-09 15:48:29,868 - INFO - 127.0.0.1 - - [09/Nov/2024 15:48:29] "GET / HTTP/1.1" 200 -
+2024-11-09 15:48:33,728 - INFO - 127.0.0.1 - - [09/Nov/2024 15:48:33] "GET / HTTP/1.1" 200 -
+2024-11-09 15:48:53,605 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-09 15:48:53,606 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-09 15:48:53,651 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 15:48:56,124 - WARNING -  * Debugger is active!
+2024-11-09 15:48:56,130 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 15:49:07,859 - INFO - 127.0.0.1 - - [09/Nov/2024 15:49:07] "GET / HTTP/1.1" 200 -
+2024-11-09 15:49:09,589 - INFO - 127.0.0.1 - - [09/Nov/2024 15:49:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-11-09 15:51:49,787 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\charset_normalizer\\models.py', reloading
+2024-11-09 15:51:49,828 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\key_binding\\bindings\\mouse.py', reloading
+2024-11-09 15:51:49,830 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\celery\\backends\\__init__.py', reloading
+2024-11-09 15:51:49,832 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyparsing\\unicode.py', reloading
+2024-11-09 15:51:49,832 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\requests\\status_codes.py', reloading
+2024-11-09 15:51:49,875 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\celery\\utils\\objects.py', reloading
+2024-11-09 15:51:49,878 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\dns\\zonefile.py', reloading
+2024-11-09 15:51:50,840 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 15:51:55,010 - WARNING -  * Debugger is active!
+2024-11-09 15:51:55,024 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 15:53:09,729 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\requests_oauthlib\\compliance_fixes\\weibo.py', reloading
+2024-11-09 15:53:09,765 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1_modules\\rfc7030.py', reloading
+2024-11-09 15:53:09,767 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\input\\vt100_parser.py', reloading
+2024-11-09 15:53:09,768 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1_modules\\rfc4055.py', reloading
+2024-11-09 15:53:09,796 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1_modules\\rfc8419.py', reloading
+2024-11-09 15:53:09,821 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1_modules\\rfc5035.py', reloading
+2024-11-09 15:53:09,822 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\charset_normalizer\\version.py', reloading
+2024-11-09 15:53:09,845 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1_modules\\rfc4073.py', reloading
+2024-11-09 15:53:09,930 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1_modules\\rfc2437.py', reloading
+2024-11-09 15:53:09,931 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\requests_oauthlib\\compliance_fixes\\instagram.py', reloading
+2024-11-09 15:53:09,949 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1_modules\\rfc4387.py', reloading
+2024-11-09 15:53:09,973 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1_modules\\rfc2985.py', reloading
+2024-11-09 15:53:09,978 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\dns\\rdtypes\\IN\\NSAP.py', reloading
+2024-11-09 15:53:09,997 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1_modules\\rfc3274.py', reloading
+2024-11-09 15:53:09,998 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1_modules\\rfc8494.py', reloading
+2024-11-09 15:53:10,024 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pip\\_vendor\\webencodings\\labels.py', reloading
+2024-11-09 15:53:10,043 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1_modules\\rfc6211.py', reloading
+2024-11-09 15:53:10,045 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\dns\\rdtypes\\ANY\\AVC.py', reloading
+2024-11-09 15:53:10,045 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1\\__init__.py', reloading
+2024-11-09 15:53:10,065 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\oauth2client\\_pkce.py', reloading
+2024-11-09 15:53:10,084 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1_modules\\rfc5275.py', reloading
+2024-11-09 15:53:10,104 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1_modules\\rfc3657.py', reloading
+2024-11-09 15:53:10,122 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1_modules\\rfc5917.py', reloading
+2024-11-09 15:53:10,141 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\dns\\rdtypes\\IN\\AAAA.py', reloading
+2024-11-09 15:53:10,142 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1_modules\\rfc6486.py', reloading
+2024-11-09 15:53:10,162 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1_modules\\rfc6120.py', reloading
+2024-11-09 15:53:10,181 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\contrib\\regular_languages\\compiler.py', reloading
+2024-11-09 15:53:10,195 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\charset_normalizer\\__main__.py', reloading
+2024-11-09 15:53:10,212 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1_modules\\rfc5751.py', reloading
+2024-11-09 15:53:10,214 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1_modules\\rfc5084.py', reloading
+2024-11-09 15:53:10,214 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1_modules\\rfc5752.py', reloading
+2024-11-09 15:53:10,216 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\dns\\rdtypes\\ANY\\SOA.py', reloading
+2024-11-09 15:53:10,232 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1_modules\\rfc7633.py', reloading
+2024-11-09 15:53:10,233 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1_modules\\rfc5940.py', reloading
+2024-11-09 15:53:10,252 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\dns\\rdtypes\\ANY\\OPENPGPKEY.py', reloading
+2024-11-09 15:53:10,492 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 15:53:13,418 - WARNING -  * Debugger is active!
+2024-11-09 15:53:13,427 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 15:55:56,608 - INFO - 127.0.0.1 - - [09/Nov/2024 15:55:56] "[32mPOST /customize_email HTTP/1.1[0m" 302 -
+2024-11-09 15:55:57,499 - INFO - 127.0.0.1 - - [09/Nov/2024 15:55:57] "GET /dashboard HTTP/1.1" 200 -
+2024-11-09 15:55:57,965 - INFO - 127.0.0.1 - - [09/Nov/2024 15:55:57] "GET /analytics HTTP/1.1" 200 -
+2024-11-09 16:00:41,047 - INFO - 127.0.0.1 - - [09/Nov/2024 16:00:41] "GET /dashboard HTTP/1.1" 200 -
+2024-11-09 16:00:41,484 - INFO - 127.0.0.1 - - [09/Nov/2024 16:00:41] "GET /analytics HTTP/1.1" 200 -
+2024-11-09 16:01:19,402 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\emoji.py', reloading
+2024-11-09 16:01:19,479 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1_modules\\rfc2560.py', reloading
+2024-11-09 16:01:19,555 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\celery\\utils\\text.py', reloading
+2024-11-09 16:01:19,575 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\redis\\commands\\search\\query.py', reloading
+2024-11-09 16:01:19,703 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\dns\\rdtypes\\ANY\\LOC.py', reloading
+2024-11-09 16:01:19,720 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1_modules\\rfc3114.py', reloading
+2024-11-09 16:01:19,760 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\requests\\structures.py', reloading
+2024-11-09 16:01:19,763 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pip\\_vendor\\requests\\structures.py', reloading
+2024-11-09 16:01:22,654 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 16:01:29,490 - WARNING -  * Debugger is active!
+2024-11-09 16:01:29,508 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 16:14:46,484 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\werkzeug\\datastructures\\accept.py', reloading
+2024-11-09 16:14:46,831 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\markupsafe\\__init__.py', reloading
+2024-11-09 16:14:49,501 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 16:14:55,102 - WARNING -  * Debugger is active!
+2024-11-09 16:14:55,111 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 16:15:36,145 - INFO - 127.0.0.1 - - [09/Nov/2024 16:15:36] "GET / HTTP/1.1" 200 -
+2024-11-09 16:15:49,160 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util\\request.py', reloading
+2024-11-09 16:15:49,165 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\urllib3\\util\\request.py', reloading
+2024-11-09 16:15:49,179 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\input\\vt100.py', reloading
+2024-11-09 16:15:49,185 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\idna\\package_data.py', reloading
+2024-11-09 16:15:49,186 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\selection.py', reloading
+2024-11-09 16:15:49,691 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 16:15:54,224 - WARNING -  * Debugger is active!
+2024-11-09 16:15:54,239 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 16:16:54,225 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\widgets\\__init__.py', reloading
+2024-11-09 16:16:54,268 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\styles\\style.py', reloading
+2024-11-09 16:16:54,313 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\formatted_text\\ansi.py', reloading
+2024-11-09 16:16:54,316 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\ansi.py', reloading
+2024-11-09 16:16:54,319 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\themes.py', reloading
+2024-11-09 16:16:54,321 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\oauth2client\\contrib\\django_util\\site.py', reloading
+2024-11-09 16:16:54,324 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\layout\\screen.py', reloading
+2024-11-09 16:16:54,696 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 16:16:59,119 - WARNING -  * Debugger is active!
+2024-11-09 16:16:59,131 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 16:18:23,954 - INFO - 127.0.0.1 - - [09/Nov/2024 16:18:23] "GET / HTTP/1.1" 200 -
+2024-11-09 16:18:36,852 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1_modules\\rfc6960.py', reloading
+2024-11-09 16:18:37,235 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 16:18:42,373 - WARNING -  * Debugger is active!
+2024-11-09 16:18:42,396 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 16:18:51,101 - INFO - 127.0.0.1 - - [09/Nov/2024 16:18:51] "GET / HTTP/1.1" 200 -
+2024-11-09 16:19:34,897 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\idna\\uts46data.py', reloading
+2024-11-09 16:19:35,007 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyparsing\\util.py', reloading
+2024-11-09 16:19:35,626 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 16:19:41,213 - WARNING -  * Debugger is active!
+2024-11-09 16:19:41,229 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 16:19:45,539 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\win32_types.py', reloading
+2024-11-09 16:19:45,542 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\control.py', reloading
+2024-11-09 16:19:46,952 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 16:19:52,115 - WARNING -  * Debugger is active!
+2024-11-09 16:19:52,123 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 16:19:59,848 - INFO - 127.0.0.1 - - [09/Nov/2024 16:19:59] "GET / HTTP/1.1" 200 -
+2024-11-09 16:20:38,254 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\billiard\\popen_fork.py', reloading
+2024-11-09 16:20:38,265 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\billiard\\synchronize.py', reloading
+2024-11-09 16:20:38,268 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1\\debug.py', reloading
+2024-11-09 16:20:39,002 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\billiard\\heap.py', reloading
+2024-11-09 16:20:39,391 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 16:20:43,215 - WARNING -  * Debugger is active!
+2024-11-09 16:20:43,222 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 16:21:17,636 - INFO - 127.0.0.1 - - [09/Nov/2024 16:21:17] "GET / HTTP/1.1" 200 -
+2024-11-09 16:21:37,981 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\jinja2\\optimizer.py', reloading
+2024-11-09 16:21:38,319 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 16:21:42,011 - WARNING -  * Debugger is active!
+2024-11-09 16:21:42,016 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 16:21:42,146 - INFO - 127.0.0.1 - - [09/Nov/2024 16:21:42] "GET / HTTP/1.1" 200 -
+2024-11-09 16:21:45,450 - INFO - 127.0.0.1 - - [09/Nov/2024 16:21:45] "GET /dashboard HTTP/1.1" 200 -
+2024-11-09 16:21:45,863 - INFO - 127.0.0.1 - - [09/Nov/2024 16:21:45] "GET /analytics HTTP/1.1" 200 -
+2024-11-09 16:54:55,157 - INFO -  * Detected change in 'C:\\Users\\raush\\AppData\\Roaming\\Python\\Python312\\site-packages\\playwright\\_impl\\_connection.py', reloading
+2024-11-09 16:54:55,177 - INFO -  * Detected change in 'C:\\Program Files\\Python312\\Lib\\asyncio\\events.py', reloading
+2024-11-09 16:54:55,204 - INFO -  * Detected change in 'C:\\Program Files\\Python312\\Lib\\asyncio\\base_events.py', reloading
+2024-11-09 16:54:55,222 - INFO -  * Detected change in 'C:\\Program Files\\Python312\\Lib\\asyncio\\windows_events.py', reloading
+2024-11-09 16:54:55,238 - INFO -  * Detected change in 'C:\\Program Files\\Python312\\Lib\\asyncio\\runners.py', reloading
+2024-11-09 16:54:56,234 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 16:54:59,572 - WARNING -  * Debugger is active!
+2024-11-09 16:54:59,581 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 16:55:02,928 - INFO -  * Detected change in 'C:\\Users\\raush\\AppData\\Roaming\\Python\\Python312\\site-packages\\playwright\\_impl\\_browser_type.py', reloading
+2024-11-09 16:55:03,149 - INFO -  * Detected change in 'C:\\Users\\raush\\AppData\\Roaming\\Python\\Python312\\site-packages\\playwright\\async_api\\_generated.py', reloading
+2024-11-09 16:55:03,866 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 16:55:05,963 - WARNING -  * Debugger is active!
+2024-11-09 16:55:05,971 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 16:55:07,002 - INFO -  * Detected change in 'C:\\Users\\raush\\AppData\\Roaming\\Python\\Python312\\site-packages\\playwright\\_impl\\_browser.py', reloading
+2024-11-09 16:55:07,242 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 16:55:09,694 - WARNING -  * Debugger is active!
+2024-11-09 16:55:09,702 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 16:55:15,392 - INFO -  * Detected change in 'C:\\Users\\raush\\AppData\\Roaming\\Python\\Python312\\site-packages\\playwright\\_impl\\_element_handle.py', reloading
+2024-11-09 16:55:16,160 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 16:55:19,086 - WARNING -  * Debugger is active!
+2024-11-09 16:55:19,091 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 17:36:45,456 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\redis\\commands\\cluster.py', reloading
+2024-11-09 17:36:45,463 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1\\codec\\cer\\__init__.py', reloading
+2024-11-09 17:36:45,464 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1\\codec\\der\\__init__.py', reloading
+2024-11-09 17:36:45,464 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\amqp\\serialization.py', reloading
+2024-11-09 17:36:45,465 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1\\compat\\__init__.py', reloading
+2024-11-09 17:36:45,465 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\dns\\rdtypes\\util.py', reloading
+2024-11-09 17:36:45,467 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1\\codec\\native\\__init__.py', reloading
+2024-11-09 17:36:45,473 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pip\\_vendor\\resolvelib\\structs.py', reloading
+2024-11-09 17:36:45,475 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1\\codec\\__init__.py', reloading
+2024-11-09 17:36:45,477 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1\\type\\__init__.py', reloading
+2024-11-09 17:36:45,499 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\redis\\commands\\redismodules.py', reloading
+2024-11-09 17:36:45,524 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\kombu\\utils\\encoding.py', reloading
+2024-11-09 17:36:45,525 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\itsdangerous\\encoding.py', reloading
+2024-11-09 17:36:45,528 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\billiard\\forkserver.py', reloading
+2024-11-09 17:36:45,531 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\dns\\_immutable_ctx.py', reloading
+2024-11-09 17:36:45,533 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\dns\\asyncresolver.py', reloading
+2024-11-09 17:36:45,537 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\google\\auth\\aio\\credentials.py', reloading
+2024-11-09 17:36:45,538 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\kombu\\utils\\collections.py', reloading
+2024-11-09 17:36:45,540 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\redis\\_parsers\\resp2.py', reloading
+2024-11-09 17:36:45,542 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1\\codec\\streaming.py', reloading
+2024-11-09 17:36:45,546 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\redis\\commands\\json\\commands.py', reloading
+2024-11-09 17:36:45,550 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\dns\\set.py', reloading
+2024-11-09 17:36:45,564 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\region.py', reloading
+2024-11-09 17:36:45,568 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1\\type\\univ.py', reloading
+2024-11-09 17:36:45,570 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\billiard\\compat.py', reloading
+2024-11-09 17:36:45,572 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\_extension.py', reloading
+2024-11-09 17:36:45,574 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\jinja2\\async_utils.py', reloading
+2024-11-09 17:36:46,236 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 17:36:50,484 - WARNING -  * Debugger is active!
+2024-11-09 17:36:50,498 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 17:36:59,078 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\redis\\commands\\search\\field.py', reloading
+2024-11-09 17:36:59,080 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1_modules\\rfc7773.py', reloading
+2024-11-09 17:36:59,084 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1_modules\\rfc8479.py', reloading
+2024-11-09 17:36:59,087 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1\\type\\error.py', reloading
+2024-11-09 17:36:59,088 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\formatted_text\\utils.py', reloading
+2024-11-09 17:36:59,101 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1_modules\\rfc4043.py', reloading
+2024-11-09 17:37:00,042 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 17:37:02,866 - WARNING -  * Debugger is active!
+2024-11-09 17:37:02,873 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 17:37:16,192 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\werkzeug\\routing\\matcher.py', reloading
+2024-11-09 17:37:16,193 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\endpoints\\authorization.py', reloading
+2024-11-09 17:37:16,196 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\billiard\\process.py', reloading
+2024-11-09 17:37:16,196 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1_modules\\rfc1905.py', reloading
+2024-11-09 17:37:16,197 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1\\type\\useful.py', reloading
+2024-11-09 17:37:16,198 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1_modules\\rfc6482.py', reloading
+2024-11-09 17:37:16,218 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\search.py', reloading
+2024-11-09 17:37:16,236 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\input\\typeahead.py', reloading
+2024-11-09 17:37:16,237 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\dns\\rdtypes\\ANY\\MX.py', reloading
+2024-11-09 17:37:16,634 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 17:37:19,836 - WARNING -  * Debugger is active!
+2024-11-09 17:37:19,841 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 17:37:23,249 - INFO - 127.0.0.1 - - [09/Nov/2024 17:37:23] "GET / HTTP/1.1" 200 -
+2024-11-09 17:39:03,171 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\input\\base.py', reloading
+2024-11-09 17:39:03,172 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\layout\\utils.py', reloading
+2024-11-09 17:39:03,200 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\output\\windows10.py', reloading
+2024-11-09 17:39:03,229 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\key_binding\\bindings\\auto_suggest.py', reloading
+2024-11-09 17:39:04,263 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 17:39:06,573 - WARNING -  * Debugger is active!
+2024-11-09 17:39:06,579 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 17:39:10,143 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\input\\defaults.py', reloading
+2024-11-09 17:39:10,163 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\input\\__init__.py', reloading
+2024-11-09 17:39:10,167 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\history.py', reloading
+2024-11-09 17:39:10,169 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1_modules\\rfc2986.py', reloading
+2024-11-09 17:39:10,389 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\click\\testing.py', reloading
+2024-11-09 17:39:10,414 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\idna\\codec.py', reloading
+2024-11-09 17:39:10,417 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\charset_normalizer\\cli\\__main__.py', reloading
+2024-11-09 17:39:10,856 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 17:39:12,967 - WARNING -  * Debugger is active!
+2024-11-09 17:39:12,975 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 17:39:16,444 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\werkzeug\\wrappers\\request.py', reloading
+2024-11-09 17:39:16,444 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\dns\\rrset.py', reloading
+2024-11-09 17:39:16,445 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\dns\\rdataset.py', reloading
+2024-11-09 17:39:16,446 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\dns\\rdatatype.py', reloading
+2024-11-09 17:39:16,447 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1_modules\\rfc1902.py', reloading
+2024-11-09 17:39:16,448 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\dns\\zone.py', reloading
+2024-11-09 17:39:16,449 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1_modules\\pem.py', reloading
+2024-11-09 17:39:16,450 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\dns\\tokenizer.py', reloading
+2024-11-09 17:39:16,452 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\dns\\rdtypes\\IN\\SRV.py', reloading
+2024-11-09 17:39:16,453 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\dns\\rdtypes\\ANY\\URI.py', reloading
+2024-11-09 17:39:16,454 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\dns\\rdata.py', reloading
+2024-11-09 17:39:16,457 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\dns\\rdtypes\\ANY\\ISDN.py', reloading
+2024-11-09 17:39:16,461 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pytz\\tzfile.py', reloading
+2024-11-09 17:39:16,464 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\requests_oauthlib\\oauth1_session.py', reloading
+2024-11-09 17:39:16,465 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pip\\_vendor\\webencodings\\x_user_defined.py', reloading
+2024-11-09 17:39:16,477 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\completion\\deduplicate.py', reloading
+2024-11-09 17:39:16,478 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\idna\\idnadata.py', reloading
+2024-11-09 17:39:16,480 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\dns\\rdtypes\\ANY\\RP.py', reloading
+2024-11-09 17:39:16,494 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\dns\\rdtypes\\ANY\\CSYNC.py', reloading
+2024-11-09 17:39:16,495 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\oauth2client\\clientsecrets.py', reloading
+2024-11-09 17:39:16,497 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1\\codec\\ber\\decoder.py', reloading
+2024-11-09 17:39:16,498 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\dns\\rdataclass.py', reloading
+2024-11-09 17:39:16,500 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\dotenv\\parser.py', reloading
+2024-11-09 17:39:16,501 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\key_binding\\bindings\\basic.py', reloading
+2024-11-09 17:39:16,521 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\google\\auth\\pluggable.py', reloading
+2024-11-09 17:39:17,303 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 17:39:19,516 - WARNING -  * Debugger is active!
+2024-11-09 17:39:19,520 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 17:39:22,402 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\_cell_widths.py', reloading
+2024-11-09 17:39:22,413 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\requests_oauthlib\\compliance_fixes\\slack.py', reloading
+2024-11-09 17:39:22,426 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\cells.py', reloading
+2024-11-09 17:39:22,432 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\google_auth_oauthlib\\flow.py', reloading
+2024-11-09 17:39:22,434 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\grant_types\\implicit.py', reloading
+2024-11-09 17:39:22,435 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\parameters.py', reloading
+2024-11-09 17:39:22,451 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\request_validator.py', reloading
+2024-11-09 17:39:22,452 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\oauthlib\\oauth1\\rfc5849\\parameters.py', reloading
+2024-11-09 17:39:22,458 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util\\ssltransport.py', reloading
+2024-11-09 17:39:22,459 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\werkzeug\\datastructures\\csp.py', reloading
+2024-11-09 17:39:22,462 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\google\\oauth2\\service_account.py', reloading
+2024-11-09 17:39:22,922 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 17:39:25,995 - WARNING -  * Debugger is active!
+2024-11-09 17:39:25,999 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 17:39:29,785 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\clients\\mobile_application.py', reloading
+2024-11-09 17:39:29,786 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc8628\\clients\\device.py', reloading
+2024-11-09 17:39:29,787 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\application\\run_in_terminal.py', reloading
+2024-11-09 17:39:29,804 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\clients\\__init__.py', reloading
+2024-11-09 17:39:29,806 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\amqp\\basic_message.py', reloading
+2024-11-09 17:39:29,808 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\oauthlib\\openid\\connect\\core\\exceptions.py', reloading
+2024-11-09 17:39:30,358 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 17:39:33,640 - WARNING -  * Debugger is active!
+2024-11-09 17:39:33,650 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 17:39:39,817 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\completion\\word_completer.py', reloading
+2024-11-09 17:39:39,819 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\click\\decorators.py', reloading
+2024-11-09 17:39:39,820 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\completion\\filesystem.py', reloading
+2024-11-09 17:39:39,828 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\data_structures.py', reloading
+2024-11-09 17:39:39,830 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\oauthlib\\oauth1\\rfc5849\\endpoints\\__init__.py', reloading
+2024-11-09 17:39:39,832 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\redis\\typing.py', reloading
+2024-11-09 17:39:40,192 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 17:39:44,130 - WARNING -  * Debugger is active!
+2024-11-09 17:39:44,139 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 17:40:11,240 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\output\\__init__.py', reloading
+2024-11-09 17:40:11,243 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\psycopg2\\errors.py', reloading
+2024-11-09 17:40:11,244 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\completion\\__init__.py', reloading
+2024-11-09 17:40:11,244 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\kombu\\asynchronous\\aws\\ext.py', reloading
+2024-11-09 17:40:11,245 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\clients\\base.py', reloading
+2024-11-09 17:40:11,246 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\oauthlib\\oauth1\\rfc5849\\endpoints\\resource.py', reloading
+2024-11-09 17:40:11,247 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\google\\auth\\_credentials_async.py', reloading
+2024-11-09 17:40:11,249 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\dns\\rdtypes\\ANY\\DLV.py', reloading
+2024-11-09 17:40:11,267 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\mouse_events.py', reloading
+2024-11-09 17:40:11,268 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\protocol.py', reloading
+2024-11-09 17:40:11,270 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\abc.py', reloading
+2024-11-09 17:40:11,556 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 17:40:15,039 - WARNING -  * Debugger is active!
+2024-11-09 17:40:15,048 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 17:40:21,737 - INFO - 127.0.0.1 - - [09/Nov/2024 17:40:21] "GET / HTTP/1.1" 200 -
+2024-11-09 17:40:42,452 - INFO - 127.0.0.1 - - [09/Nov/2024 17:40:42] "GET / HTTP/1.1" 200 -
+2024-11-09 17:41:47,837 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\celery\\result.py', reloading
+2024-11-09 17:41:47,837 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\redis\\commands\\search\\document.py', reloading
+2024-11-09 17:41:48,569 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 17:41:51,245 - WARNING -  * Debugger is active!
+2024-11-09 17:41:51,250 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 17:42:01,245 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1_modules\\rfc3565.py', reloading
+2024-11-09 17:42:01,266 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\kombu\\utils\\uuid.py', reloading
+2024-11-09 17:42:01,286 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\dns\\rdtypes\\ANY\\L32.py', reloading
+2024-11-09 17:42:01,947 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 17:42:07,312 - WARNING -  * Debugger is active!
+2024-11-09 17:42:07,320 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 17:42:12,407 - INFO - 127.0.0.1 - - [09/Nov/2024 17:42:12] "GET / HTTP/1.1" 200 -
+2024-11-09 17:42:15,461 - INFO - 127.0.0.1 - - [09/Nov/2024 17:42:15] "GET / HTTP/1.1" 200 -
+2024-11-09 17:43:00,804 - INFO - 127.0.0.1 - - [09/Nov/2024 17:43:00] "GET / HTTP/1.1" 200 -
+2024-11-09 17:43:02,289 - INFO - 127.0.0.1 - - [09/Nov/2024 17:43:02] "GET / HTTP/1.1" 200 -
+2024-11-09 17:43:02,620 - INFO - 127.0.0.1 - - [09/Nov/2024 17:43:02] "GET / HTTP/1.1" 200 -
+2024-11-09 17:43:02,953 - INFO - 127.0.0.1 - - [09/Nov/2024 17:43:02] "GET / HTTP/1.1" 200 -
+2024-11-09 17:43:03,302 - INFO - 127.0.0.1 - - [09/Nov/2024 17:43:03] "GET / HTTP/1.1" 200 -
+2024-11-09 17:43:03,708 - INFO - 127.0.0.1 - - [09/Nov/2024 17:43:03] "GET / HTTP/1.1" 200 -
+2024-11-09 17:45:04,939 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\clipboard\\in_memory.py', reloading
+2024-11-09 17:45:05,874 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 17:45:09,565 - WARNING -  * Debugger is active!
+2024-11-09 17:45:09,572 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 17:45:17,988 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\input\\win32_pipe.py', reloading
+2024-11-09 17:45:17,989 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\input\\posix_pipe.py', reloading
+2024-11-09 17:45:18,180 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\requests_oauthlib\\compliance_fixes\\douban.py', reloading
+2024-11-09 17:45:18,232 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\click_repl\\_repl.py', reloading
+2024-11-09 17:45:19,192 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 17:45:22,949 - WARNING -  * Debugger is active!
+2024-11-09 17:45:22,962 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 17:45:23,095 - INFO - 127.0.0.1 - - [09/Nov/2024 17:45:23] "GET / HTTP/1.1" 200 -
+2024-11-09 17:45:25,522 - INFO - 127.0.0.1 - - [09/Nov/2024 17:45:25] "GET / HTTP/1.1" 200 -
+2024-11-09 17:45:31,611 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pip\\_vendor\\tomli\\_types.py', reloading
+2024-11-09 17:45:31,798 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\tokens.py', reloading
+2024-11-09 17:45:32,671 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 17:45:36,711 - WARNING -  * Debugger is active!
+2024-11-09 17:45:36,719 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 17:45:40,809 - INFO - 127.0.0.1 - - [09/Nov/2024 17:45:40] "GET / HTTP/1.1" 200 -
+2024-11-09 17:48:11,178 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\redis\\commands\\graph\\execution_plan.py', reloading
+2024-11-09 17:48:11,178 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\google\\oauth2\\sts.py', reloading
+2024-11-09 17:48:11,180 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\clipboard\\base.py', reloading
+2024-11-09 17:48:11,184 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\endpoints\\resource.py', reloading
+2024-11-09 17:48:11,458 - INFO - 127.0.0.1 - - [09/Nov/2024 17:48:11] "GET / HTTP/1.1" 200 -
+2024-11-09 17:48:12,245 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 17:48:16,024 - WARNING -  * Debugger is active!
+2024-11-09 17:48:16,034 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 17:50:41,887 - INFO - 127.0.0.1 - - [09/Nov/2024 17:50:41] "[32mPOST /customize_email HTTP/1.1[0m" 302 -
+2024-11-09 17:50:44,348 - INFO - 127.0.0.1 - - [09/Nov/2024 17:50:44] "GET /dashboard HTTP/1.1" 200 -
+2024-11-09 17:50:44,899 - INFO - 127.0.0.1 - - [09/Nov/2024 17:50:44] "GET /analytics HTTP/1.1" 200 -
+2024-11-09 17:54:10,127 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1_modules\\rfc6019.py', reloading
+2024-11-09 17:54:11,301 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 17:54:15,272 - WARNING -  * Debugger is active!
+2024-11-09 17:54:15,280 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 17:55:18,135 - INFO - 127.0.0.1 - - [09/Nov/2024 17:55:18] "GET / HTTP/1.1" 200 -
+2024-11-09 17:55:52,299 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\kombu\\utils\\div.py', reloading
+2024-11-09 17:55:52,662 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 17:55:55,980 - WARNING -  * Debugger is active!
+2024-11-09 17:55:55,999 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 17:56:03,443 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1_modules\\rfc8649.py', reloading
+2024-11-09 17:56:03,472 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1_modules\\rfc8418.py', reloading
+2024-11-09 17:56:03,855 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 17:56:07,651 - WARNING -  * Debugger is active!
+2024-11-09 17:56:07,659 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 17:56:07,922 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1_modules\\rfc3412.py', reloading
+2024-11-09 17:56:09,044 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 17:56:12,045 - WARNING -  * Debugger is active!
+2024-11-09 17:56:12,054 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 17:56:42,400 - INFO - 127.0.0.1 - - [09/Nov/2024 17:56:42] "GET / HTTP/1.1" 200 -
+2024-11-09 18:01:24,658 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\key_binding\\bindings\\page_navigation.py', reloading
+2024-11-09 18:01:24,897 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 18:01:27,558 - WARNING -  * Debugger is active!
+2024-11-09 18:01:27,564 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 18:01:27,613 - INFO - 127.0.0.1 - - [09/Nov/2024 18:01:27] "GET / HTTP/1.1" 200 -
+2024-11-09 18:03:21,667 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\kombu\\asynchronous\\http\\curl.py', reloading
+2024-11-09 18:03:21,668 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\contrib\\appengine.py', reloading
+2024-11-09 18:03:22,309 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 18:03:25,337 - WARNING -  * Debugger is active!
+2024-11-09 18:03:25,342 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 18:03:26,850 - INFO - 127.0.0.1 - - [09/Nov/2024 18:03:26] "GET / HTTP/1.1" 200 -
+2024-11-09 18:03:46,458 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\redis\\_parsers\\base.py', reloading
+2024-11-09 18:03:46,460 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\redis\\_parsers\\commands.py', reloading
+2024-11-09 18:03:46,488 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\amqp\\channel.py', reloading
+2024-11-09 18:03:46,491 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\colorama\\win32.py', reloading
+2024-11-09 18:03:46,494 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\input\\ansi_escape_sequences.py', reloading
+2024-11-09 18:03:46,496 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\kombu\\asynchronous\\debug.py', reloading
+2024-11-09 18:03:46,499 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\renderer.py', reloading
+2024-11-09 18:03:46,500 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\amqp\\method_framing.py', reloading
+2024-11-09 18:03:46,502 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\redis\\_parsers\\hiredis.py', reloading
+2024-11-09 18:03:46,505 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\key_binding\\bindings\\cpr.py', reloading
+2024-11-09 18:03:47,121 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 18:03:49,220 - WARNING -  * Debugger is active!
+2024-11-09 18:03:49,226 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 18:04:11,192 - INFO - 127.0.0.1 - - [09/Nov/2024 18:04:11] "GET / HTTP/1.1" 200 -
+2024-11-09 18:04:47,587 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\click_repl\\exceptions.py', reloading
+2024-11-09 18:04:48,134 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 18:04:50,437 - WARNING -  * Debugger is active!
+2024-11-09 18:04:50,442 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 18:05:07,639 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\kombu\\transport\\SLMQ.py', reloading
+2024-11-09 18:05:08,255 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 18:05:10,657 - WARNING -  * Debugger is active!
+2024-11-09 18:05:10,665 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 18:05:30,326 - INFO - 127.0.0.1 - - [09/Nov/2024 18:05:30] "GET / HTTP/1.1" 200 -
+2024-11-09 18:06:10,795 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\redis\\commands\\graph\\node.py', reloading
+2024-11-09 18:06:10,815 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\kombu\\utils\\text.py', reloading
+2024-11-09 18:06:10,817 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\redis\\commands\\graph\\edge.py', reloading
+2024-11-09 18:06:10,820 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\markupsafe\\_native.py', reloading
+2024-11-09 18:06:10,821 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\redis\\_parsers\\encoders.py', reloading
+2024-11-09 18:06:10,825 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\click\\_compat.py', reloading
+2024-11-09 18:06:10,858 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\werkzeug\\middleware\\lint.py', reloading
+2024-11-09 18:06:11,294 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\oauth2client\\transport.py', reloading
+2024-11-09 18:06:11,296 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1\\codec\\ber\\__init__.py', reloading
+2024-11-09 18:06:11,299 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\dns\\ipv6.py', reloading
+2024-11-09 18:06:11,302 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\dotenv\\ipython.py', reloading
+2024-11-09 18:06:11,304 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\celery\\backends\\cache.py', reloading
+2024-11-09 18:06:11,307 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\urllib3\\util\\retry.py', reloading
+2024-11-09 18:06:11,309 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyparsing\\results.py', reloading
+2024-11-09 18:06:11,313 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\dns\\dnssec.py', reloading
+2024-11-09 18:06:11,532 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\google\\oauth2\\_client.py', reloading
+2024-11-09 18:06:11,533 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1_modules\\__init__.py', reloading
+2024-11-09 18:06:11,534 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\apscheduler\\executors\\asyncio.py', reloading
+2024-11-09 18:06:11,731 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 18:06:14,063 - WARNING -  * Debugger is active!
+2024-11-09 18:06:14,070 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 18:06:14,130 - INFO - 127.0.0.1 - - [09/Nov/2024 18:06:14] "GET / HTTP/1.1" 200 -
+2024-11-09 18:07:17,032 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\celery\\loaders\\base.py', reloading
+2024-11-09 18:07:17,033 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\celery\\events\\snapshot.py', reloading
+2024-11-09 18:07:17,411 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 18:07:19,891 - WARNING -  * Debugger is active!
+2024-11-09 18:07:19,899 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 18:07:20,734 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\requests\\help.py', reloading
+2024-11-09 18:07:20,735 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\apscheduler\\executors\\tornado.py', reloading
+2024-11-09 18:07:20,736 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\charset_normalizer\\version.py', reloading
+2024-11-09 18:07:20,739 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\werkzeug\\user_agent.py', reloading
+2024-11-09 18:07:21,093 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 18:07:22,970 - WARNING -  * Debugger is active!
+2024-11-09 18:07:22,975 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 18:09:02,451 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\shortcuts\\progress_bar\\__init__.py', reloading
+2024-11-09 18:09:02,452 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\celery\\contrib\\abortable.py', reloading
+2024-11-09 18:09:02,453 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\__init__.py', reloading
+2024-11-09 18:09:03,175 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 18:09:05,637 - WARNING -  * Debugger is active!
+2024-11-09 18:09:05,643 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 18:09:05,697 - INFO - 127.0.0.1 - - [09/Nov/2024 18:09:05] "GET / HTTP/1.1" 200 -
+2024-11-09 18:10:19,027 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\requests_oauthlib\\__init__.py', reloading
+2024-11-09 18:10:19,028 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\lexers\\__init__.py', reloading
+2024-11-09 18:10:19,030 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\colorama\\tests\\winterm_test.py', reloading
+2024-11-09 18:10:19,033 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\dns\\rdtypes\\CH\\__init__.py', reloading
+2024-11-09 18:10:19,034 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\scripts\\readme-gen\\readme_gen.py', reloading
+2024-11-09 18:10:20,231 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 18:10:22,661 - WARNING -  * Debugger is active!
+2024-11-09 18:10:22,666 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 18:10:27,753 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\oauthlib\\signals.py', reloading
+2024-11-09 18:10:28,058 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 18:10:30,615 - WARNING -  * Debugger is active!
+2024-11-09 18:10:30,621 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 18:10:31,889 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\key_binding\\bindings\\scroll.py', reloading
+2024-11-09 18:10:31,902 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\key_binding\\bindings\\focus.py', reloading
+2024-11-09 18:10:31,922 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\layout\\dummy.py', reloading
+2024-11-09 18:10:32,880 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 18:10:35,120 - WARNING -  * Debugger is active!
+2024-11-09 18:10:35,125 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 18:10:36,199 - INFO - 127.0.0.1 - - [09/Nov/2024 18:10:36] "GET / HTTP/1.1" 200 -
+2024-11-09 18:11:12,745 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1_modules\\rfc4010.py', reloading
+2024-11-09 18:11:13,549 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 18:11:15,556 - WARNING -  * Debugger is active!
+2024-11-09 18:11:15,560 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 18:11:24,155 - INFO - 127.0.0.1 - - [09/Nov/2024 18:11:24] "GET / HTTP/1.1" 200 -
+2024-11-09 18:11:53,715 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\requests_oauthlib\\oauth1_auth.py', reloading
+2024-11-09 18:11:53,880 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 18:11:55,864 - WARNING -  * Debugger is active!
+2024-11-09 18:11:55,871 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 18:12:05,363 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\contrib\\telnet\\protocol.py', reloading
+2024-11-09 18:12:05,580 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\dns\\opcode.py', reloading
+2024-11-09 18:12:05,601 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\_stack.py', reloading
+2024-11-09 18:12:06,327 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 18:12:08,888 - WARNING -  * Debugger is active!
+2024-11-09 18:12:08,892 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 18:12:14,441 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\celery\\contrib\\testing\\app.py', reloading
+2024-11-09 18:12:15,221 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 18:12:17,901 - WARNING -  * Debugger is active!
+2024-11-09 18:12:17,910 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 18:12:45,218 - INFO - 127.0.0.1 - - [09/Nov/2024 18:12:45] "GET / HTTP/1.1" 200 -
+2024-11-09 18:12:45,327 - INFO - 127.0.0.1 - - [09/Nov/2024 18:12:45] "GET /static/styles.css HTTP/1.1" 200 -
+2024-11-09 18:12:46,303 - INFO - 127.0.0.1 - - [09/Nov/2024 18:12:46] "GET / HTTP/1.1" 200 -
+2024-11-09 18:12:46,327 - INFO - 127.0.0.1 - - [09/Nov/2024 18:12:46] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 18:12:46,578 - INFO - 127.0.0.1 - - [09/Nov/2024 18:12:46] "GET / HTTP/1.1" 200 -
+2024-11-09 18:12:46,590 - INFO - 127.0.0.1 - - [09/Nov/2024 18:12:46] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 18:12:46,880 - INFO - 127.0.0.1 - - [09/Nov/2024 18:12:46] "GET / HTTP/1.1" 200 -
+2024-11-09 18:12:46,911 - INFO - 127.0.0.1 - - [09/Nov/2024 18:12:46] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 18:12:47,168 - INFO - 127.0.0.1 - - [09/Nov/2024 18:12:47] "GET / HTTP/1.1" 200 -
+2024-11-09 18:12:47,206 - INFO - 127.0.0.1 - - [09/Nov/2024 18:12:47] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 18:12:47,531 - INFO - 127.0.0.1 - - [09/Nov/2024 18:12:47] "GET / HTTP/1.1" 200 -
+2024-11-09 18:12:47,566 - INFO - 127.0.0.1 - - [09/Nov/2024 18:12:47] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 18:13:47,665 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\kombu\\transport\\azureservicebus.py', reloading
+2024-11-09 18:13:47,919 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 18:13:49,711 - WARNING -  * Debugger is active!
+2024-11-09 18:13:49,719 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 18:14:04,579 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pip\\_vendor\\resolvelib\\resolvers.py', reloading
+2024-11-09 18:14:04,580 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\dns\\win32util.py', reloading
+2024-11-09 18:14:04,581 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\dns\\rdtypes\\ANY\\HINFO.py', reloading
+2024-11-09 18:14:04,583 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\requests\\status_codes.py', reloading
+2024-11-09 18:14:04,583 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\dns\\rdtypes\\ANY\\TXT.py', reloading
+2024-11-09 18:14:04,585 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\dns\\rdtypes\\IN\\WKS.py', reloading
+2024-11-09 18:14:04,586 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\redis\\commands\\search\\suggestion.py', reloading
+2024-11-09 18:14:04,589 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\dns\\rdtypes\\IN\\KX.py', reloading
+2024-11-09 18:14:04,590 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\dns\\rdtypes\\CH\\A.py', reloading
+2024-11-09 18:14:04,592 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\dns\\rdtypes\\ANY\\NINFO.py', reloading
+2024-11-09 18:14:04,593 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\httplib2\\iri2uri.py', reloading
+2024-11-09 18:14:04,594 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\dns\\rdtypes\\ANY\\HIP.py', reloading
+2024-11-09 18:14:04,595 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\dns\\rdtypes\\IN\\A.py', reloading
+2024-11-09 18:14:04,627 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\oauthlib\\openid\\connect\\core\\grant_types\\hybrid.py', reloading
+2024-11-09 18:14:04,650 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\oauthlib\\openid\\connect\\core\\grant_types\\implicit.py', reloading
+2024-11-09 18:14:04,651 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\dns\\rdtypes\\IN\\PX.py', reloading
+2024-11-09 18:14:04,653 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\google\\auth\\_refresh_worker.py', reloading
+2024-11-09 18:14:04,654 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\dns\\rdtypes\\ANY\\X25.py', reloading
+2024-11-09 18:14:04,655 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\requests_oauthlib\\compliance_fixes\\ebay.py', reloading
+2024-11-09 18:14:04,661 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\dns\\rdtypes\\IN\\NAPTR.py', reloading
+2024-11-09 18:14:04,662 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\oauth2client\\contrib\\_metadata.py', reloading
+2024-11-09 18:14:04,664 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\dns\\rdtypes\\IN\\NSAP.py', reloading
+2024-11-09 18:14:04,665 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\oauthlib\\openid\\connect\\core\\endpoints\\pre_configured.py', reloading
+2024-11-09 18:14:04,668 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\requests_oauthlib\\compliance_fixes\\instagram.py', reloading
+2024-11-09 18:14:04,669 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\redis\\commands\\search\\result.py', reloading
+2024-11-09 18:14:04,671 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\oauthlib\\oauth1\\rfc5849\\endpoints\\pre_configured.py', reloading
+2024-11-09 18:14:04,672 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\dns\\rdtypes\\ANY\\RRSIG.py', reloading
+2024-11-09 18:14:04,675 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\auto_suggest.py', reloading
+2024-11-09 18:14:04,676 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\billiard\\context.py', reloading
+2024-11-09 18:14:04,679 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\oauth2client\\contrib\\dictionary_storage.py', reloading
+2024-11-09 18:14:04,682 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\dns\\_features.py', reloading
+2024-11-09 18:14:05,410 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 18:14:07,639 - WARNING -  * Debugger is active!
+2024-11-09 18:14:07,649 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 18:14:16,316 - INFO - 127.0.0.1 - - [09/Nov/2024 18:14:16] "GET / HTTP/1.1" 200 -
+2024-11-09 18:14:16,395 - INFO - 127.0.0.1 - - [09/Nov/2024 18:14:16] "GET /static/styles.css HTTP/1.1" 200 -
+2024-11-09 18:14:21,122 - INFO - 127.0.0.1 - - [09/Nov/2024 18:14:21] "GET / HTTP/1.1" 200 -
+2024-11-09 18:14:21,140 - INFO - 127.0.0.1 - - [09/Nov/2024 18:14:21] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 18:14:49,808 - INFO - 127.0.0.1 - - [09/Nov/2024 18:14:49] "GET /dashboard HTTP/1.1" 200 -
+2024-11-09 18:14:50,364 - INFO - 127.0.0.1 - - [09/Nov/2024 18:14:50] "GET /analytics HTTP/1.1" 200 -
+2024-11-09 18:16:52,362 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\click\\exceptions.py', reloading
+2024-11-09 18:16:52,568 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\wcwidth\\wcwidth.py', reloading
+2024-11-09 18:16:52,790 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 18:16:55,592 - WARNING -  * Debugger is active!
+2024-11-09 18:16:55,601 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 18:16:55,664 - INFO - 127.0.0.1 - - [09/Nov/2024 18:16:55] "GET / HTTP/1.1" 200 -
+2024-11-09 18:16:55,735 - INFO - 127.0.0.1 - - [09/Nov/2024 18:16:55] "GET /static/styles.css HTTP/1.1" 200 -
+2024-11-09 18:17:14,032 - INFO - 127.0.0.1 - - [09/Nov/2024 18:17:14] "GET / HTTP/1.1" 200 -
+2024-11-09 18:17:14,046 - INFO - 127.0.0.1 - - [09/Nov/2024 18:17:14] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 18:17:31,474 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\kombu\\transport\\base.py', reloading
+2024-11-09 18:17:31,475 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\blinker\\base.py', reloading
+2024-11-09 18:17:31,827 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 18:17:33,646 - WARNING -  * Debugger is active!
+2024-11-09 18:17:33,653 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 18:22:13,935 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\celery\\loaders\\default.py', reloading
+2024-11-09 18:22:13,957 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\celery\\worker\\state.py', reloading
+2024-11-09 18:22:14,898 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 18:22:17,245 - WARNING -  * Debugger is active!
+2024-11-09 18:22:17,251 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 18:22:22,188 - INFO - 127.0.0.1 - - [09/Nov/2024 18:22:22] "GET / HTTP/1.1" 200 -
+2024-11-09 18:22:22,281 - INFO - 127.0.0.1 - - [09/Nov/2024 18:22:22] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 18:22:22,293 - INFO - 127.0.0.1 - - [09/Nov/2024 18:22:22] "GET /static/logo.jpg HTTP/1.1" 200 -
+2024-11-09 18:27:29,807 - INFO - 127.0.0.1 - - [09/Nov/2024 18:27:29] "GET / HTTP/1.1" 200 -
+2024-11-09 18:27:29,835 - INFO - 127.0.0.1 - - [09/Nov/2024 18:27:29] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 18:27:29,848 - INFO - 127.0.0.1 - - [09/Nov/2024 18:27:29] "GET /static/logo.jpg HTTP/1.1" 200 -
+2024-11-09 18:28:43,266 - INFO - 127.0.0.1 - - [09/Nov/2024 18:28:43] "GET / HTTP/1.1" 200 -
+2024-11-09 18:28:43,282 - INFO - 127.0.0.1 - - [09/Nov/2024 18:28:43] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 18:28:43,283 - INFO - 127.0.0.1 - - [09/Nov/2024 18:28:43] "[36mGET /static/logo.jpg HTTP/1.1[0m" 304 -
+2024-11-09 18:28:55,968 - INFO - 127.0.0.1 - - [09/Nov/2024 18:28:55] "GET / HTTP/1.1" 200 -
+2024-11-09 18:28:55,985 - INFO - 127.0.0.1 - - [09/Nov/2024 18:28:55] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 18:28:55,986 - INFO - 127.0.0.1 - - [09/Nov/2024 18:28:55] "[36mGET /static/logo.jpg HTTP/1.1[0m" 304 -
+2024-11-09 18:29:07,650 - INFO - 127.0.0.1 - - [09/Nov/2024 18:29:07] "GET / HTTP/1.1" 200 -
+2024-11-09 18:29:07,677 - INFO - 127.0.0.1 - - [09/Nov/2024 18:29:07] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 18:29:07,681 - INFO - 127.0.0.1 - - [09/Nov/2024 18:29:07] "[36mGET /static/logo.jpg HTTP/1.1[0m" 304 -
+2024-11-09 18:29:10,295 - INFO - 127.0.0.1 - - [09/Nov/2024 18:29:10] "GET / HTTP/1.1" 200 -
+2024-11-09 18:29:10,323 - INFO - 127.0.0.1 - - [09/Nov/2024 18:29:10] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 18:29:10,326 - INFO - 127.0.0.1 - - [09/Nov/2024 18:29:10] "[36mGET /static/logo.jpg HTTP/1.1[0m" 304 -
+2024-11-09 18:32:10,297 - INFO - 127.0.0.1 - - [09/Nov/2024 18:32:10] "GET / HTTP/1.1" 200 -
+2024-11-09 18:32:10,323 - INFO - 127.0.0.1 - - [09/Nov/2024 18:32:10] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 18:32:10,338 - INFO - 127.0.0.1 - - [09/Nov/2024 18:32:10] "GET /static/logo.jpg HTTP/1.1" 200 -
+2024-11-09 18:32:37,503 - INFO - 127.0.0.1 - - [09/Nov/2024 18:32:37] "GET / HTTP/1.1" 200 -
+2024-11-09 18:32:37,564 - INFO - 127.0.0.1 - - [09/Nov/2024 18:32:37] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 18:32:37,689 - INFO - 127.0.0.1 - - [09/Nov/2024 18:32:37] "[36mGET /static/logo.jpg HTTP/1.1[0m" 304 -
+2024-11-09 18:33:18,141 - INFO - 127.0.0.1 - - [09/Nov/2024 18:33:18] "GET / HTTP/1.1" 200 -
+2024-11-09 18:33:18,160 - INFO - 127.0.0.1 - - [09/Nov/2024 18:33:18] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 18:33:18,175 - INFO - 127.0.0.1 - - [09/Nov/2024 18:33:18] "GET /static/logo.jpg HTTP/1.1" 200 -
+2024-11-09 18:35:53,467 - INFO - 127.0.0.1 - - [09/Nov/2024 18:35:53] "GET / HTTP/1.1" 200 -
+2024-11-09 18:35:53,495 - INFO - 127.0.0.1 - - [09/Nov/2024 18:35:53] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 18:35:53,505 - INFO - 127.0.0.1 - - [09/Nov/2024 18:35:53] "GET /static/logo.jpg HTTP/1.1" 200 -
+2024-11-09 18:36:09,089 - INFO - 127.0.0.1 - - [09/Nov/2024 18:36:09] "GET / HTTP/1.1" 200 -
+2024-11-09 18:36:09,110 - INFO - 127.0.0.1 - - [09/Nov/2024 18:36:09] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 18:36:09,116 - INFO - 127.0.0.1 - - [09/Nov/2024 18:36:09] "[36mGET /static/logo.jpg HTTP/1.1[0m" 304 -
+2024-11-09 18:36:24,629 - INFO - 127.0.0.1 - - [09/Nov/2024 18:36:24] "GET / HTTP/1.1" 200 -
+2024-11-09 18:36:24,654 - INFO - 127.0.0.1 - - [09/Nov/2024 18:36:24] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 18:36:24,656 - INFO - 127.0.0.1 - - [09/Nov/2024 18:36:24] "[36mGET /static/logo.jpg HTTP/1.1[0m" 304 -
+2024-11-09 18:36:50,937 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\celery\\concurrency\\eventlet.py', reloading
+2024-11-09 18:36:50,993 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\kombu\\transport\\consul.py', reloading
+2024-11-09 18:36:51,060 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\celery\\bin\\purge.py', reloading
+2024-11-09 18:36:52,390 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 18:36:59,537 - WARNING -  * Debugger is active!
+2024-11-09 18:36:59,555 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 18:37:04,989 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\colorama\\tests\\ansitowin32_test.py', reloading
+2024-11-09 18:37:05,058 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1_modules\\rfc2560.py', reloading
+2024-11-09 18:37:05,250 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\filesize.py', reloading
+2024-11-09 18:37:05,314 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\celery\\backends\\filesystem.py', reloading
+2024-11-09 18:37:05,403 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1_modules\\rfc5752.py', reloading
+2024-11-09 18:37:05,480 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\httplib2\\socks.py', reloading
+2024-11-09 18:37:06,349 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 18:37:11,550 - WARNING -  * Debugger is active!
+2024-11-09 18:37:11,565 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 18:37:18,764 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\output\\flush_stdout.py', reloading
+2024-11-09 18:37:18,895 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\dns\\zonefile.py', reloading
+2024-11-09 18:37:19,075 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\kombu\\asynchronous\\aws\\sqs\\queue.py', reloading
+2024-11-09 18:37:19,406 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 18:37:24,396 - WARNING -  * Debugger is active!
+2024-11-09 18:37:24,409 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 18:37:32,370 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\celery\\contrib\\rdb.py', reloading
+2024-11-09 18:37:32,869 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\celery\\events\\dispatcher.py', reloading
+2024-11-09 18:37:33,251 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 18:37:38,797 - WARNING -  * Debugger is active!
+2024-11-09 18:37:38,810 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 18:37:38,917 - INFO - 127.0.0.1 - - [09/Nov/2024 18:37:38] "GET / HTTP/1.1" 200 -
+2024-11-09 18:37:39,199 - INFO - 127.0.0.1 - - [09/Nov/2024 18:37:39] "[36mGET /static/logo.jpg HTTP/1.1[0m" 304 -
+2024-11-09 18:37:39,227 - INFO - 127.0.0.1 - - [09/Nov/2024 18:37:39] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 18:37:42,331 - INFO - 127.0.0.1 - - [09/Nov/2024 18:37:42] "GET /dashboard HTTP/1.1" 200 -
+2024-11-09 18:37:42,359 - INFO - 127.0.0.1 - - [09/Nov/2024 18:37:42] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 18:37:42,360 - INFO - 127.0.0.1 - - [09/Nov/2024 18:37:42] "[36mGET /static/logo.jpg HTTP/1.1[0m" 304 -
+2024-11-09 18:37:43,505 - INFO - 127.0.0.1 - - [09/Nov/2024 18:37:43] "GET /analytics HTTP/1.1" 200 -
+2024-11-09 18:38:14,645 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\kombu\\__init__.py', reloading
+2024-11-09 18:38:14,851 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\google\\auth\\exceptions.py', reloading
+2024-11-09 18:38:14,856 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\urllib3\\contrib\\pyopenssl.py', reloading
+2024-11-09 18:38:14,882 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\redis\\commands\\search\\field.py', reloading
+2024-11-09 18:38:15,541 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 18:38:19,721 - WARNING -  * Debugger is active!
+2024-11-09 18:38:19,727 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 18:38:20,738 - INFO - 127.0.0.1 - - [09/Nov/2024 18:38:20] "GET /dashboard HTTP/1.1" 200 -
+2024-11-09 18:38:20,884 - INFO - 127.0.0.1 - - [09/Nov/2024 18:38:20] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 18:38:20,887 - INFO - 127.0.0.1 - - [09/Nov/2024 18:38:20] "[36mGET /static/logo.jpg HTTP/1.1[0m" 304 -
+2024-11-09 18:38:21,115 - INFO - 127.0.0.1 - - [09/Nov/2024 18:38:21] "GET /analytics HTTP/1.1" 200 -
+2024-11-09 18:38:53,771 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\click_repl\\utils.py', reloading
+2024-11-09 18:38:54,660 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 18:39:00,590 - WARNING -  * Debugger is active!
+2024-11-09 18:39:00,601 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 18:39:07,005 - INFO - 127.0.0.1 - - [09/Nov/2024 18:39:07] "GET /dashboard HTTP/1.1" 200 -
+2024-11-09 18:39:07,203 - INFO - 127.0.0.1 - - [09/Nov/2024 18:39:07] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 18:39:07,208 - INFO - 127.0.0.1 - - [09/Nov/2024 18:39:07] "[36mGET /static/logo.jpg HTTP/1.1[0m" 304 -
+2024-11-09 18:39:07,583 - INFO - 127.0.0.1 - - [09/Nov/2024 18:39:07] "GET /analytics HTTP/1.1" 200 -
+2024-11-09 18:39:10,500 - INFO - 127.0.0.1 - - [09/Nov/2024 18:39:10] "GET / HTTP/1.1" 200 -
+2024-11-09 18:39:10,528 - INFO - 127.0.0.1 - - [09/Nov/2024 18:39:10] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 18:39:10,530 - INFO - 127.0.0.1 - - [09/Nov/2024 18:39:10] "[36mGET /static/logo.jpg HTTP/1.1[0m" 304 -
+2024-11-09 18:39:14,359 - INFO - 127.0.0.1 - - [09/Nov/2024 18:39:14] "GET /dashboard HTTP/1.1" 200 -
+2024-11-09 18:39:14,383 - INFO - 127.0.0.1 - - [09/Nov/2024 18:39:14] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 18:39:14,384 - INFO - 127.0.0.1 - - [09/Nov/2024 18:39:14] "[36mGET /static/logo.jpg HTTP/1.1[0m" 304 -
+2024-11-09 18:39:15,255 - INFO - 127.0.0.1 - - [09/Nov/2024 18:39:15] "GET /analytics HTTP/1.1" 200 -
+2024-11-09 18:39:32,805 - INFO - 127.0.0.1 - - [09/Nov/2024 18:39:32] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 18:40:13,832 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\idna\\codec.py', reloading
+2024-11-09 18:40:13,832 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pip\\_vendor\\webencodings\\x_user_defined.py', reloading
+2024-11-09 18:40:13,834 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\kombu\\asynchronous\\aws\\ext.py', reloading
+2024-11-09 18:40:13,865 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1_modules\\rfc2314.py', reloading
+2024-11-09 18:40:13,865 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1_modules\\rfc2437.py', reloading
+2024-11-09 18:40:14,371 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 18:40:18,014 - WARNING -  * Debugger is active!
+2024-11-09 18:40:18,025 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 18:40:21,142 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\key_binding\\bindings\\open_in_editor.py', reloading
+2024-11-09 18:40:21,144 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\key_binding\\emacs_state.py', reloading
+2024-11-09 18:40:21,145 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\application\\current.py', reloading
+2024-11-09 18:40:21,442 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 18:40:23,990 - WARNING -  * Debugger is active!
+2024-11-09 18:40:23,995 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 18:40:34,676 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\celery\\backends\\cassandra.py', reloading
+2024-11-09 18:40:36,106 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 18:40:39,887 - WARNING -  * Debugger is active!
+2024-11-09 18:40:39,892 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 18:40:41,158 - INFO - 127.0.0.1 - - [09/Nov/2024 18:40:41] "GET /dashboard HTTP/1.1" 200 -
+2024-11-09 18:40:41,305 - INFO - 127.0.0.1 - - [09/Nov/2024 18:40:41] "[36mGET /static/logo.jpg HTTP/1.1[0m" 304 -
+2024-11-09 18:40:41,307 - INFO - 127.0.0.1 - - [09/Nov/2024 18:40:41] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 18:40:42,073 - INFO - 127.0.0.1 - - [09/Nov/2024 18:40:42] "GET /analytics HTTP/1.1" 200 -
+2024-11-09 18:40:57,298 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\google\\auth\\credentials.py', reloading
+2024-11-09 18:40:57,887 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 18:41:01,069 - WARNING -  * Debugger is active!
+2024-11-09 18:41:01,089 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 18:41:01,670 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\werkzeug\\wrappers\\__init__.py', reloading
+2024-11-09 18:41:01,673 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\celery\\contrib\\django\\task.py', reloading
+2024-11-09 18:41:01,688 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\requests\\certs.py', reloading
+2024-11-09 18:41:02,531 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 18:41:06,360 - WARNING -  * Debugger is active!
+2024-11-09 18:41:06,373 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 18:41:07,442 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\google\\oauth2\\utils.py', reloading
+2024-11-09 18:41:08,138 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 18:41:12,695 - WARNING -  * Debugger is active!
+2024-11-09 18:41:12,699 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 18:41:22,340 - INFO - 127.0.0.1 - - [09/Nov/2024 18:41:22] "GET /dashboard HTTP/1.1" 200 -
+2024-11-09 18:41:22,484 - INFO - 127.0.0.1 - - [09/Nov/2024 18:41:22] "GET /static/styles.css HTTP/1.1" 200 -
+2024-11-09 18:41:22,490 - INFO - 127.0.0.1 - - [09/Nov/2024 18:41:22] "[36mGET /static/logo.jpg HTTP/1.1[0m" 304 -
+2024-11-09 18:41:22,777 - INFO - 127.0.0.1 - - [09/Nov/2024 18:41:22] "GET /analytics HTTP/1.1" 200 -
+2024-11-09 18:41:41,154 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\key_binding\\key_bindings.py', reloading
+2024-11-09 18:41:41,157 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\amqp\\basic_message.py', reloading
+2024-11-09 18:41:41,581 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\dns\\_ddr.py', reloading
+2024-11-09 18:41:42,189 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 18:41:45,213 - WARNING -  * Debugger is active!
+2024-11-09 18:41:45,219 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 18:41:45,791 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\amqp\\connection.py', reloading
+2024-11-09 18:41:46,611 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 18:41:50,727 - WARNING -  * Debugger is active!
+2024-11-09 18:41:50,741 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 18:43:00,153 - INFO - 127.0.0.1 - - [09/Nov/2024 18:43:00] "GET / HTTP/1.1" 200 -
+2024-11-09 18:43:00,310 - INFO - 127.0.0.1 - - [09/Nov/2024 18:43:00] "[36mGET /static/logo.jpg HTTP/1.1[0m" 304 -
+2024-11-09 18:43:00,318 - INFO - 127.0.0.1 - - [09/Nov/2024 18:43:00] "GET /static/styles.css HTTP/1.1" 200 -
+2024-11-09 18:43:06,495 - INFO - 127.0.0.1 - - [09/Nov/2024 18:43:06] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 18:43:21,978 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\contrib\\regular_languages\\regex_parser.py', reloading
+2024-11-09 18:43:21,979 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\redis\\commands\\search\\document.py', reloading
+2024-11-09 18:43:21,980 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\werkzeug\\wsgi.py', reloading
+2024-11-09 18:43:21,983 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\token.py', reloading
+2024-11-09 18:43:21,987 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\search.py', reloading
+2024-11-09 18:43:22,968 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 18:43:29,330 - WARNING -  * Debugger is active!
+2024-11-09 18:43:29,341 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 18:44:24,243 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\contrib\\ssh\\server.py', reloading
+2024-11-09 18:44:24,244 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\contrib\\telnet\\server.py', reloading
+2024-11-09 18:44:24,245 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\application\\__init__.py', reloading
+2024-11-09 18:44:24,929 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 18:44:28,458 - WARNING -  * Debugger is active!
+2024-11-09 18:44:28,464 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 18:44:28,541 - INFO - 127.0.0.1 - - [09/Nov/2024 18:44:28] "GET / HTTP/1.1" 200 -
+2024-11-09 18:44:28,727 - INFO - 127.0.0.1 - - [09/Nov/2024 18:44:28] "GET /static/styles.css HTTP/1.1" 200 -
+2024-11-09 18:44:28,729 - INFO - 127.0.0.1 - - [09/Nov/2024 18:44:28] "[36mGET /static/logo.jpg HTTP/1.1[0m" 304 -
+2024-11-09 18:44:50,594 - INFO - 127.0.0.1 - - [09/Nov/2024 18:44:50] "GET / HTTP/1.1" 200 -
+2024-11-09 18:44:50,630 - INFO - 127.0.0.1 - - [09/Nov/2024 18:44:50] "[36mGET /static/logo.jpg HTTP/1.1[0m" 304 -
+2024-11-09 18:44:50,632 - INFO - 127.0.0.1 - - [09/Nov/2024 18:44:50] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 18:45:00,066 - INFO - 127.0.0.1 - - [09/Nov/2024 18:45:00] "GET / HTTP/1.1" 200 -
+2024-11-09 18:45:00,097 - INFO - 127.0.0.1 - - [09/Nov/2024 18:45:00] "GET /static/styles.css HTTP/1.1" 200 -
+2024-11-09 18:45:00,098 - INFO - 127.0.0.1 - - [09/Nov/2024 18:45:00] "[36mGET /static/logo.jpg HTTP/1.1[0m" 304 -
+2024-11-09 18:45:10,926 - INFO - 127.0.0.1 - - [09/Nov/2024 18:45:10] "GET /dashboard HTTP/1.1" 200 -
+2024-11-09 18:45:10,961 - INFO - 127.0.0.1 - - [09/Nov/2024 18:45:10] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 18:45:10,964 - INFO - 127.0.0.1 - - [09/Nov/2024 18:45:10] "[36mGET /static/logo.jpg HTTP/1.1[0m" 304 -
+2024-11-09 18:45:11,976 - INFO - 127.0.0.1 - - [09/Nov/2024 18:45:11] "GET /dashboard HTTP/1.1" 200 -
+2024-11-09 18:45:12,377 - INFO - 127.0.0.1 - - [09/Nov/2024 18:45:12] "GET /analytics HTTP/1.1" 200 -
+2024-11-09 18:45:21,542 - INFO - 127.0.0.1 - - [09/Nov/2024 18:45:21] "GET / HTTP/1.1" 200 -
+2024-11-09 18:45:21,569 - INFO - 127.0.0.1 - - [09/Nov/2024 18:45:21] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 18:45:21,572 - INFO - 127.0.0.1 - - [09/Nov/2024 18:45:21] "[36mGET /static/logo.jpg HTTP/1.1[0m" 304 -
+2024-11-09 18:47:19,366 - INFO - 127.0.0.1 - - [09/Nov/2024 18:47:19] "GET /dashboard HTTP/1.1" 200 -
+2024-11-09 18:47:19,389 - INFO - 127.0.0.1 - - [09/Nov/2024 18:47:19] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 18:47:19,392 - INFO - 127.0.0.1 - - [09/Nov/2024 18:47:19] "[36mGET /static/logo.jpg HTTP/1.1[0m" 304 -
+2024-11-09 18:47:20,488 - INFO - 127.0.0.1 - - [09/Nov/2024 18:47:20] "GET /analytics HTTP/1.1" 200 -
+2024-11-09 18:47:28,909 - INFO - 127.0.0.1 - - [09/Nov/2024 18:47:28] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 18:49:25,771 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\filters\\__init__.py', reloading
+2024-11-09 18:49:25,773 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\click\\decorators.py', reloading
+2024-11-09 18:49:25,778 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\output\\__init__.py', reloading
+2024-11-09 18:49:25,781 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\completion\\__init__.py', reloading
+2024-11-09 18:49:25,783 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\oauthlib\\oauth1\\rfc5849\\endpoints\\__init__.py', reloading
+2024-11-09 18:49:25,832 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\output\\defaults.py', reloading
+2024-11-09 18:49:25,835 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\clipboard\\base.py', reloading
+2024-11-09 18:49:25,840 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\dns\\quic\\_asyncio.py', reloading
+2024-11-09 18:49:25,929 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\clipboard\\__init__.py', reloading
+2024-11-09 18:49:25,932 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\completion\\nested.py', reloading
+2024-11-09 18:49:25,935 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\oauth2client\\contrib\\django_util\\models.py', reloading
+2024-11-09 18:49:25,936 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\completion\\filesystem.py', reloading
+2024-11-09 18:49:25,938 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\validation.py', reloading
+2024-11-09 18:49:25,958 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\input\\defaults.py', reloading
+2024-11-09 18:49:25,959 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\flask\\globals.py', reloading
+2024-11-09 18:49:25,960 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\dns\\quic\\_trio.py', reloading
+2024-11-09 18:49:25,961 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\jinja2\\optimizer.py', reloading
+2024-11-09 18:49:25,964 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\celery\\utils\\saferepr.py', reloading
+2024-11-09 18:49:26,351 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 18:49:29,061 - WARNING -  * Debugger is active!
+2024-11-09 18:49:29,066 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 18:50:13,228 - INFO - 127.0.0.1 - - [09/Nov/2024 18:50:13] "GET / HTTP/1.1" 200 -
+2024-11-09 18:50:13,397 - INFO - 127.0.0.1 - - [09/Nov/2024 18:50:13] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 18:50:13,398 - INFO - 127.0.0.1 - - [09/Nov/2024 18:50:13] "[36mGET /static/logo.jpg HTTP/1.1[0m" 304 -
+2024-11-09 20:09:55,677 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\output\\color_depth.py', reloading
+2024-11-09 20:09:56,348 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 20:10:00,991 - WARNING -  * Debugger is active!
+2024-11-09 20:10:01,003 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 20:12:35,349 - INFO - 127.0.0.1 - - [09/Nov/2024 20:12:35] "GET / HTTP/1.1" 200 -
+2024-11-09 20:12:35,478 - INFO - 127.0.0.1 - - [09/Nov/2024 20:12:35] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 20:12:35,636 - INFO - 127.0.0.1 - - [09/Nov/2024 20:12:35] "[36mGET /static/logo.jpg HTTP/1.1[0m" 304 -
+2024-11-09 20:13:02,063 - INFO - 127.0.0.1 - - [09/Nov/2024 20:13:02] "GET / HTTP/1.1" 200 -
+2024-11-09 20:13:02,080 - INFO - 127.0.0.1 - - [09/Nov/2024 20:13:02] "[36mGET /static/logo.jpg HTTP/1.1[0m" 304 -
+2024-11-09 20:13:02,080 - INFO - 127.0.0.1 - - [09/Nov/2024 20:13:02] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 20:13:08,715 - INFO - 127.0.0.1 - - [09/Nov/2024 20:13:08] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 20:14:10,629 - INFO - 127.0.0.1 - - [09/Nov/2024 20:14:10] "GET / HTTP/1.1" 200 -
+2024-11-09 20:14:10,668 - INFO - 127.0.0.1 - - [09/Nov/2024 20:14:10] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 20:14:11,055 - INFO - 127.0.0.1 - - [09/Nov/2024 20:14:11] "[36mGET /static/logo.jpg HTTP/1.1[0m" 304 -
+2024-11-09 20:14:31,179 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\kombu\\transport\\etcd.py', reloading
+2024-11-09 20:14:31,185 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\oauth2client\\contrib\\django_util\\decorators.py', reloading
+2024-11-09 20:14:31,185 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyparsing\\util.py', reloading
+2024-11-09 20:14:31,721 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 20:14:34,704 - WARNING -  * Debugger is active!
+2024-11-09 20:14:34,710 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 20:14:39,507 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\clients\\mobile_application.py', reloading
+2024-11-09 20:14:39,508 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1_modules\\rfc4010.py', reloading
+2024-11-09 20:14:39,509 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\requests\\sessions.py', reloading
+2024-11-09 20:14:40,036 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 20:14:41,974 - WARNING -  * Debugger is active!
+2024-11-09 20:14:41,979 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 20:15:09,607 - INFO - 127.0.0.1 - - [09/Nov/2024 20:15:09] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 20:15:33,142 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\celery\\utils\\sysinfo.py', reloading
+2024-11-09 20:15:33,878 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 20:15:35,731 - WARNING -  * Debugger is active!
+2024-11-09 20:15:35,735 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 20:15:42,074 - INFO - 127.0.0.1 - - [09/Nov/2024 20:15:42] "GET / HTTP/1.1" 200 -
+2024-11-09 20:15:42,180 - INFO - 127.0.0.1 - - [09/Nov/2024 20:15:42] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 20:15:42,469 - INFO - 127.0.0.1 - - [09/Nov/2024 20:15:42] "[36mGET /static/logo.jpg HTTP/1.1[0m" 304 -
+2024-11-09 20:17:39,652 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\kombu\\utils\\div.py', reloading
+2024-11-09 20:17:39,811 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 20:17:42,383 - WARNING -  * Debugger is active!
+2024-11-09 20:17:42,389 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 20:17:45,899 - INFO - 127.0.0.1 - - [09/Nov/2024 20:17:45] "GET / HTTP/1.1" 200 -
+2024-11-09 20:17:46,025 - INFO - 127.0.0.1 - - [09/Nov/2024 20:17:46] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 20:17:46,030 - INFO - 127.0.0.1 - - [09/Nov/2024 20:17:46] "[36mGET /static/logo.jpg HTTP/1.1[0m" 304 -
+2024-11-09 20:17:57,013 - INFO - 127.0.0.1 - - [09/Nov/2024 20:17:57] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 20:19:42,632 - INFO - 127.0.0.1 - - [09/Nov/2024 20:19:42] "GET / HTTP/1.1" 200 -
+2024-11-09 20:19:42,662 - INFO - 127.0.0.1 - - [09/Nov/2024 20:19:42] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 20:19:43,010 - INFO - 127.0.0.1 - - [09/Nov/2024 20:19:43] "[36mGET /static/logo.jpg HTTP/1.1[0m" 304 -
+2024-11-09 20:19:53,582 - INFO - 127.0.0.1 - - [09/Nov/2024 20:19:53] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 20:20:11,985 - INFO - 127.0.0.1 - - [09/Nov/2024 20:20:11] "GET /dashboard HTTP/1.1" 200 -
+2024-11-09 20:20:12,007 - INFO - 127.0.0.1 - - [09/Nov/2024 20:20:12] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 20:20:12,008 - INFO - 127.0.0.1 - - [09/Nov/2024 20:20:12] "[36mGET /static/logo.jpg HTTP/1.1[0m" 304 -
+2024-11-09 20:20:13,803 - INFO - 127.0.0.1 - - [09/Nov/2024 20:20:13] "GET /analytics HTTP/1.1" 200 -
+2024-11-09 20:20:34,723 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\dns\\dnssecalgs\\rsa.py', reloading
+2024-11-09 20:20:34,725 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\colorama\\tests\\utils.py', reloading
+2024-11-09 20:20:34,727 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\celery\\bin\\upgrade.py', reloading
+2024-11-09 20:20:34,729 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\urllib3\\util\\__init__.py', reloading
+2024-11-09 20:20:34,730 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\celery\\apps\\multi.py', reloading
+2024-11-09 20:20:34,730 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\apscheduler\\executors\\twisted.py', reloading
+2024-11-09 20:20:36,004 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 20:20:38,369 - WARNING -  * Debugger is active!
+2024-11-09 20:20:38,374 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 20:20:42,334 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\dateutil\\tz\\__init__.py', reloading
+2024-11-09 20:20:42,758 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 20:20:44,778 - WARNING -  * Debugger is active!
+2024-11-09 20:20:44,786 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 20:20:45,828 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\werkzeug\\datastructures\\mixins.py', reloading
+2024-11-09 20:20:45,846 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\dns\\rdtypes\\ANY\\__init__.py', reloading
+2024-11-09 20:20:45,852 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\kombu\\asynchronous\\aws\\sqs\\queue.py', reloading
+2024-11-09 20:20:46,054 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 20:20:48,361 - WARNING -  * Debugger is active!
+2024-11-09 20:20:48,369 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 20:20:53,475 - INFO - 127.0.0.1 - - [09/Nov/2024 20:20:53] "GET /dashboard HTTP/1.1" 200 -
+2024-11-09 20:20:53,567 - INFO - 127.0.0.1 - - [09/Nov/2024 20:20:53] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 20:20:53,568 - INFO - 127.0.0.1 - - [09/Nov/2024 20:20:53] "[36mGET /static/logo.jpg HTTP/1.1[0m" 304 -
+2024-11-09 20:20:53,983 - INFO - 127.0.0.1 - - [09/Nov/2024 20:20:53] "GET /analytics HTTP/1.1" 200 -
+2024-11-09 20:21:02,010 - INFO - 127.0.0.1 - - [09/Nov/2024 20:21:02] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 20:21:28,808 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1_modules\\rfc2986.py', reloading
+2024-11-09 20:21:29,426 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\httplib2\\socks.py', reloading
+2024-11-09 20:21:29,662 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\billiard\\process.py', reloading
+2024-11-09 20:21:29,665 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\connection.py', reloading
+2024-11-09 20:21:29,885 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 20:21:31,927 - WARNING -  * Debugger is active!
+2024-11-09 20:21:31,932 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 20:22:53,774 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1_modules\\rfc8702.py', reloading
+2024-11-09 20:22:53,802 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1_modules\\rfc5649.py', reloading
+2024-11-09 20:22:53,807 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1_modules\\rfc8494.py', reloading
+2024-11-09 20:22:53,808 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\google\\oauth2\\webauthn_handler.py', reloading
+2024-11-09 20:22:54,378 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 20:22:57,078 - WARNING -  * Debugger is active!
+2024-11-09 20:22:57,087 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 20:22:59,139 - INFO - 127.0.0.1 - - [09/Nov/2024 20:22:59] "GET /dashboard HTTP/1.1" 200 -
+2024-11-09 20:22:59,198 - INFO - 127.0.0.1 - - [09/Nov/2024 20:22:59] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 20:22:59,369 - INFO - 127.0.0.1 - - [09/Nov/2024 20:22:59] "[36mGET /static/logo.jpg HTTP/1.1[0m" 304 -
+2024-11-09 20:23:09,044 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\email_validator\\deliverability.py', reloading
+2024-11-09 20:23:09,740 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 20:23:12,495 - WARNING -  * Debugger is active!
+2024-11-09 20:23:12,502 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 20:23:18,614 - INFO - 127.0.0.1 - - [09/Nov/2024 20:23:18] "GET /dashboard HTTP/1.1" 200 -
+2024-11-09 20:23:18,673 - INFO - 127.0.0.1 - - [09/Nov/2024 20:23:18] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 20:23:18,719 - INFO - 127.0.0.1 - - [09/Nov/2024 20:23:18] "[36mGET /static/logo.jpg HTTP/1.1[0m" 304 -
+2024-11-09 20:23:19,017 - INFO - 127.0.0.1 - - [09/Nov/2024 20:23:19] "GET /analytics HTTP/1.1" 200 -
+2024-11-09 20:23:40,860 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\google\\auth\\environment_vars.py', reloading
+2024-11-09 20:23:40,861 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\certifi\\__init__.py', reloading
+2024-11-09 20:23:41,660 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 20:23:43,763 - WARNING -  * Debugger is active!
+2024-11-09 20:23:43,767 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 20:25:02,873 - INFO - 127.0.0.1 - - [09/Nov/2024 20:25:02] "GET /dashboard HTTP/1.1" 200 -
+2024-11-09 20:25:03,005 - INFO - 127.0.0.1 - - [09/Nov/2024 20:25:03] "[36mGET /static/logo.jpg HTTP/1.1[0m" 304 -
+2024-11-09 20:25:03,007 - INFO - 127.0.0.1 - - [09/Nov/2024 20:25:03] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 20:25:03,332 - INFO - 127.0.0.1 - - [09/Nov/2024 20:25:03] "GET /analytics HTTP/1.1" 200 -
+2024-11-09 20:26:55,169 - INFO - 127.0.0.1 - - [09/Nov/2024 20:26:55] "GET /dashboard HTTP/1.1" 200 -
+2024-11-09 20:26:55,189 - INFO - 127.0.0.1 - - [09/Nov/2024 20:26:55] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 20:26:55,189 - INFO - 127.0.0.1 - - [09/Nov/2024 20:26:55] "[36mGET /static/logo.jpg HTTP/1.1[0m" 304 -
+2024-11-09 20:26:55,628 - INFO - 127.0.0.1 - - [09/Nov/2024 20:26:55] "GET /analytics HTTP/1.1" 200 -
+2024-11-09 20:27:17,961 - INFO - 127.0.0.1 - - [09/Nov/2024 20:27:17] "GET /dashboard HTTP/1.1" 200 -
+2024-11-09 20:27:17,979 - INFO - 127.0.0.1 - - [09/Nov/2024 20:27:17] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 20:27:17,979 - INFO - 127.0.0.1 - - [09/Nov/2024 20:27:17] "[36mGET /static/logo.jpg HTTP/1.1[0m" 304 -
+2024-11-09 20:27:18,386 - INFO - 127.0.0.1 - - [09/Nov/2024 20:27:18] "GET /analytics HTTP/1.1" 200 -
+2024-11-09 20:27:34,248 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\_loop.py', reloading
+2024-11-09 20:27:34,249 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\data_structures.py', reloading
+2024-11-09 20:27:34,251 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\celery\\backends\\dynamodb.py', reloading
+2024-11-09 20:27:34,266 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\_wrap.py', reloading
+2024-11-09 20:27:34,268 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\psycopg2\\_range.py', reloading
+2024-11-09 20:27:34,269 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\_stack.py', reloading
+2024-11-09 20:27:34,284 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\redis\\asyncio\\retry.py', reloading
+2024-11-09 20:27:34,285 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\dateutil\\relativedelta.py', reloading
+2024-11-09 20:27:35,273 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 20:27:37,330 - WARNING -  * Debugger is active!
+2024-11-09 20:27:37,334 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 20:27:50,879 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\dns\\rdtypes\\ANY\\MX.py', reloading
+2024-11-09 20:27:50,899 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1_modules\\rfc5913.py', reloading
+2024-11-09 20:27:50,903 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\pyasn1_modules\\rfc1155.py', reloading
+2024-11-09 20:27:51,556 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\rsa\\common.py', reloading
+2024-11-09 20:27:51,984 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 20:27:53,847 - WARNING -  * Debugger is active!
+2024-11-09 20:27:53,852 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 20:28:50,822 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\billiard\\exceptions.py', reloading
+2024-11-09 20:28:51,941 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 20:28:55,631 - WARNING -  * Debugger is active!
+2024-11-09 20:28:55,639 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 20:28:57,585 - INFO - 127.0.0.1 - - [09/Nov/2024 20:28:57] "GET /dashboard HTTP/1.1" 200 -
+2024-11-09 20:28:57,689 - INFO - 127.0.0.1 - - [09/Nov/2024 20:28:57] "[36mGET /static/logo.jpg HTTP/1.1[0m" 304 -
+2024-11-09 20:28:57,691 - INFO - 127.0.0.1 - - [09/Nov/2024 20:28:57] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 20:28:57,982 - INFO - 127.0.0.1 - - [09/Nov/2024 20:28:57] "GET /analytics HTTP/1.1" 200 -
+2024-11-09 20:29:02,449 - INFO - 127.0.0.1 - - [09/Nov/2024 20:29:02] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 20:29:19,015 - INFO - 127.0.0.1 - - [09/Nov/2024 20:29:19] "GET /dashboard HTTP/1.1" 200 -
+2024-11-09 20:29:19,029 - INFO - 127.0.0.1 - - [09/Nov/2024 20:29:19] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 20:29:19,252 - INFO - 127.0.0.1 - - [09/Nov/2024 20:29:19] "[36mGET /static/logo.jpg HTTP/1.1[0m" 304 -
+2024-11-09 20:29:19,625 - INFO - 127.0.0.1 - - [09/Nov/2024 20:29:19] "GET /analytics HTTP/1.1" 200 -
+2024-11-09 20:31:11,596 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\prompt_toolkit\\clipboard\\pyperclip.py', reloading
+2024-11-09 20:31:12,223 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 20:31:14,122 - WARNING -  * Debugger is active!
+2024-11-09 20:31:14,127 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 20:32:14,678 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\celery\\bin\\purge.py', reloading
+2024-11-09 20:32:14,681 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\celery\\security\\certificate.py', reloading
+2024-11-09 20:32:14,720 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\billiard\\queues.py', reloading
+2024-11-09 20:32:14,755 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\dns\\rdtypes\\IN\\APL.py', reloading
+2024-11-09 20:32:15,252 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 20:32:17,823 - WARNING -  * Debugger is active!
+2024-11-09 20:32:17,831 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 20:32:17,933 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\venv\\Lib\\site-packages\\kombu\\asynchronous\\aws\\__init__.py', reloading
+2024-11-09 20:32:19,066 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 20:32:21,051 - WARNING -  * Debugger is active!
+2024-11-09 20:32:21,055 - INFO -  * Debugger PIN: 562-499-602
+2024-11-09 20:33:47,803 - INFO - 127.0.0.1 - - [09/Nov/2024 20:33:47] "GET /dashboard HTTP/1.1" 200 -
+2024-11-09 20:33:47,915 - INFO - 127.0.0.1 - - [09/Nov/2024 20:33:47] "[36mGET /static/logo.jpg HTTP/1.1[0m" 304 -
+2024-11-09 20:33:47,917 - INFO - 127.0.0.1 - - [09/Nov/2024 20:33:47] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 20:33:48,269 - INFO - 127.0.0.1 - - [09/Nov/2024 20:33:48] "GET /analytics HTTP/1.1" 200 -
+2024-11-09 20:33:58,537 - INFO - 127.0.0.1 - - [09/Nov/2024 20:33:58] "GET /dashboard HTTP/1.1" 200 -
+2024-11-09 20:33:58,554 - INFO - 127.0.0.1 - - [09/Nov/2024 20:33:58] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 20:33:58,556 - INFO - 127.0.0.1 - - [09/Nov/2024 20:33:58] "[36mGET /static/logo.jpg HTTP/1.1[0m" 304 -
+2024-11-09 20:33:58,937 - INFO - 127.0.0.1 - - [09/Nov/2024 20:33:58] "GET /analytics HTTP/1.1" 200 -
+2024-11-09 20:34:20,778 - INFO - 127.0.0.1 - - [09/Nov/2024 20:34:20] "GET /dashboard HTTP/1.1" 200 -
+2024-11-09 20:34:20,794 - INFO - 127.0.0.1 - - [09/Nov/2024 20:34:20] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 20:34:20,796 - INFO - 127.0.0.1 - - [09/Nov/2024 20:34:20] "[36mGET /static/logo.jpg HTTP/1.1[0m" 304 -
+2024-11-09 20:34:21,150 - INFO - 127.0.0.1 - - [09/Nov/2024 20:34:21] "GET /analytics HTTP/1.1" 200 -
+2024-11-09 20:34:25,305 - INFO - 127.0.0.1 - - [09/Nov/2024 20:34:25] "GET /dashboard HTTP/1.1" 200 -
+2024-11-09 20:34:25,320 - INFO - 127.0.0.1 - - [09/Nov/2024 20:34:25] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 20:34:25,321 - INFO - 127.0.0.1 - - [09/Nov/2024 20:34:25] "[36mGET /static/logo.jpg HTTP/1.1[0m" 304 -
+2024-11-09 20:34:25,531 - INFO - 127.0.0.1 - - [09/Nov/2024 20:34:25] "GET /analytics HTTP/1.1" 200 -
+2024-11-09 20:34:35,933 - INFO - 127.0.0.1 - - [09/Nov/2024 20:34:35] "GET /dashboard HTTP/1.1" 200 -
+2024-11-09 20:34:35,948 - INFO - 127.0.0.1 - - [09/Nov/2024 20:34:35] "[36mGET /static/logo.jpg HTTP/1.1[0m" 304 -
+2024-11-09 20:34:35,948 - INFO - 127.0.0.1 - - [09/Nov/2024 20:34:35] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 20:34:36,285 - INFO - 127.0.0.1 - - [09/Nov/2024 20:34:36] "GET /analytics HTTP/1.1" 200 -
+2024-11-09 20:35:00,886 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-09 20:35:00,886 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-09 20:35:00,890 - INFO -  * Restarting with stat
+2024-11-09 20:35:02,182 - WARNING -  * Debugger is active!
+2024-11-09 20:35:02,189 - INFO -  * Debugger PIN: 953-426-833
+2024-11-09 20:35:05,167 - INFO - 127.0.0.1 - - [09/Nov/2024 20:35:05] "GET / HTTP/1.1" 200 -
+2024-11-09 20:35:05,493 - INFO - 127.0.0.1 - - [09/Nov/2024 20:35:05] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 20:35:05,781 - INFO - 127.0.0.1 - - [09/Nov/2024 20:35:05] "[36mGET /static/logo.jpg HTTP/1.1[0m" 304 -
+2024-11-09 20:35:17,069 - INFO - 127.0.0.1 - - [09/Nov/2024 20:35:17] "GET /dashboard HTTP/1.1" 200 -
+2024-11-09 20:35:17,082 - INFO - 127.0.0.1 - - [09/Nov/2024 20:35:17] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 20:35:17,151 - INFO - 127.0.0.1 - - [09/Nov/2024 20:35:17] "[36mGET /static/logo.jpg HTTP/1.1[0m" 304 -
+2024-11-09 20:35:17,468 - INFO - 127.0.0.1 - - [09/Nov/2024 20:35:17] "GET /analytics HTTP/1.1" 200 -
+2024-11-09 20:36:07,000 - INFO - 127.0.0.1 - - [09/Nov/2024 20:36:07] "GET /dashboard HTTP/1.1" 200 -
+2024-11-09 20:36:07,014 - INFO - 127.0.0.1 - - [09/Nov/2024 20:36:07] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 20:36:07,015 - INFO - 127.0.0.1 - - [09/Nov/2024 20:36:07] "[36mGET /static/logo.jpg HTTP/1.1[0m" 304 -
+2024-11-09 20:36:07,368 - INFO - 127.0.0.1 - - [09/Nov/2024 20:36:07] "GET /analytics HTTP/1.1" 200 -
+2024-11-09 20:36:17,508 - INFO - 127.0.0.1 - - [09/Nov/2024 20:36:17] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 20:36:53,731 - INFO - 127.0.0.1 - - [09/Nov/2024 20:36:53] "GET /dashboard HTTP/1.1" 200 -
+2024-11-09 20:36:53,769 - INFO - 127.0.0.1 - - [09/Nov/2024 20:36:53] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 20:36:54,095 - INFO - 127.0.0.1 - - [09/Nov/2024 20:36:54] "[36mGET /static/logo.jpg HTTP/1.1[0m" 304 -
+2024-11-09 20:36:54,500 - INFO - 127.0.0.1 - - [09/Nov/2024 20:36:54] "GET /analytics HTTP/1.1" 200 -
+2024-11-09 20:37:25,197 - INFO - 127.0.0.1 - - [09/Nov/2024 20:37:25] "GET /dashboard HTTP/1.1" 200 -
+2024-11-09 20:37:25,223 - INFO - 127.0.0.1 - - [09/Nov/2024 20:37:25] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 20:37:25,474 - INFO - 127.0.0.1 - - [09/Nov/2024 20:37:25] "[36mGET /static/logo.jpg HTTP/1.1[0m" 304 -
+2024-11-09 20:37:25,825 - INFO - 127.0.0.1 - - [09/Nov/2024 20:37:25] "GET /analytics HTTP/1.1" 200 -
+2024-11-09 20:37:39,781 - INFO - 127.0.0.1 - - [09/Nov/2024 20:37:39] "[35m[1mPOST /customize_email HTTP/1.1[0m" 500 -
+2024-11-09 20:37:39,825 - INFO - 127.0.0.1 - - [09/Nov/2024 20:37:39] "[36mGET /customize_email?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-11-09 20:37:39,825 - INFO - 127.0.0.1 - - [09/Nov/2024 20:37:39] "[36mGET /customize_email?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-11-09 20:37:39,952 - INFO - 127.0.0.1 - - [09/Nov/2024 20:37:39] "GET /customize_email?__debugger__=yes&cmd=resource&f=console.png&s=kwyONLOMowUnd9qJE6F4 HTTP/1.1" 200 -
+2024-11-09 20:40:22,205 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\app.py', reloading
+2024-11-09 20:40:22,585 - INFO -  * Restarting with stat
+2024-11-09 20:40:28,508 - WARNING -  * Debugger is active!
+2024-11-09 20:40:28,521 - INFO -  * Debugger PIN: 953-426-833
+2024-11-09 20:41:21,319 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-09 20:41:21,319 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-09 20:41:21,322 - INFO -  * Restarting with stat
+2024-11-09 20:41:23,046 - WARNING -  * Debugger is active!
+2024-11-09 20:41:23,052 - INFO -  * Debugger PIN: 953-426-833
+2024-11-09 20:41:28,319 - INFO - 127.0.0.1 - - [09/Nov/2024 20:41:28] "GET / HTTP/1.1" 200 -
+2024-11-09 20:41:28,661 - INFO - 127.0.0.1 - - [09/Nov/2024 20:41:28] "GET /static/styles.css HTTP/1.1" 200 -
+2024-11-09 20:41:28,685 - INFO - 127.0.0.1 - - [09/Nov/2024 20:41:28] "GET /static/logo.jpg HTTP/1.1" 200 -
+2024-11-09 20:41:30,341 - INFO - 127.0.0.1 - - [09/Nov/2024 20:41:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-11-09 20:41:53,907 - INFO - 127.0.0.1 - - [09/Nov/2024 20:41:53] "[35m[1mPOST /customize_email HTTP/1.1[0m" 500 -
+2024-11-09 20:41:53,956 - INFO - 127.0.0.1 - - [09/Nov/2024 20:41:53] "GET /customize_email?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-11-09 20:41:53,959 - INFO - 127.0.0.1 - - [09/Nov/2024 20:41:53] "GET /customize_email?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-11-09 20:41:54,005 - INFO - 127.0.0.1 - - [09/Nov/2024 20:41:54] "GET /customize_email?__debugger__=yes&cmd=resource&f=console.png&s=PHJMc8eIakYwMRZmvT39 HTTP/1.1" 200 -
+2024-11-09 20:41:54,430 - INFO - 127.0.0.1 - - [09/Nov/2024 20:41:54] "GET /customize_email?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-11-09 20:42:00,068 - ERROR - Error checking email limit: connection to server at "localhost" (::1), port 5432 failed: fe_sendauth: no password supplied
+
+2024-11-09 20:42:22,981 - INFO - 127.0.0.1 - - [09/Nov/2024 20:42:22] "[35m[1mPOST /customize_email HTTP/1.1[0m" 500 -
+2024-11-09 20:42:23,032 - INFO - 127.0.0.1 - - [09/Nov/2024 20:42:23] "[36mGET /customize_email?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-11-09 20:42:23,042 - INFO - 127.0.0.1 - - [09/Nov/2024 20:42:23] "[36mGET /customize_email?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-11-09 20:42:23,081 - INFO - 127.0.0.1 - - [09/Nov/2024 20:42:23] "[36mGET /customize_email?__debugger__=yes&cmd=resource&f=console.png&s=PHJMc8eIakYwMRZmvT39 HTTP/1.1[0m" 304 -
+2024-11-09 20:42:23,610 - INFO - 127.0.0.1 - - [09/Nov/2024 20:42:23] "[36mGET /customize_email?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-11-09 20:42:29,321 - INFO - 127.0.0.1 - - [09/Nov/2024 20:42:29] "GET / HTTP/1.1" 200 -
+2024-11-09 20:42:29,370 - INFO - 127.0.0.1 - - [09/Nov/2024 20:42:29] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 20:42:29,371 - INFO - 127.0.0.1 - - [09/Nov/2024 20:42:29] "[36mGET /static/logo.jpg HTTP/1.1[0m" 304 -
+2024-11-09 20:42:48,128 - INFO - 127.0.0.1 - - [09/Nov/2024 20:42:48] "[35m[1mPOST /customize_email HTTP/1.1[0m" 500 -
+2024-11-09 20:42:48,176 - INFO - 127.0.0.1 - - [09/Nov/2024 20:42:48] "[36mGET /customize_email?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-11-09 20:42:48,185 - INFO - 127.0.0.1 - - [09/Nov/2024 20:42:48] "[36mGET /customize_email?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-11-09 20:42:48,218 - INFO - 127.0.0.1 - - [09/Nov/2024 20:42:48] "[36mGET /customize_email?__debugger__=yes&cmd=resource&f=console.png&s=PHJMc8eIakYwMRZmvT39 HTTP/1.1[0m" 304 -
+2024-11-09 20:43:00,097 - ERROR - Error checking email limit: connection to server at "localhost" (::1), port 5432 failed: fe_sendauth: no password supplied
+
+2024-11-09 20:43:02,769 - INFO -  * Detected change in 'c:\\Users\\raush\\Desktop\\email\\app.py', reloading
+2024-11-09 20:43:03,000 - INFO -  * Restarting with stat
+2024-11-09 20:43:27,861 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-09 20:43:27,861 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-09 20:43:27,866 - INFO -  * Restarting with stat
+2024-11-09 20:43:33,218 - WARNING -  * Debugger is active!
+2024-11-09 20:43:33,239 - INFO -  * Debugger PIN: 953-426-833
+2024-11-09 20:43:33,410 - INFO - 127.0.0.1 - - [09/Nov/2024 20:43:33] "GET / HTTP/1.1" 200 -
+2024-11-09 20:43:36,297 - INFO - 127.0.0.1 - - [09/Nov/2024 20:43:36] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 20:43:36,362 - INFO - 127.0.0.1 - - [09/Nov/2024 20:43:36] "[36mGET /static/logo.jpg HTTP/1.1[0m" 304 -
+2024-11-09 20:43:56,335 - INFO - 127.0.0.1 - - [09/Nov/2024 20:43:56] "[32mPOST /customize_email HTTP/1.1[0m" 302 -
+2024-11-09 20:43:57,320 - INFO - 127.0.0.1 - - [09/Nov/2024 20:43:57] "GET /dashboard HTTP/1.1" 200 -
+2024-11-09 20:43:57,357 - INFO - 127.0.0.1 - - [09/Nov/2024 20:43:57] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 20:43:57,383 - INFO - 127.0.0.1 - - [09/Nov/2024 20:43:57] "[36mGET /static/logo.jpg HTTP/1.1[0m" 304 -
+2024-11-09 20:43:57,739 - INFO - 127.0.0.1 - - [09/Nov/2024 20:43:57] "GET /analytics HTTP/1.1" 200 -
+2024-11-09 20:48:17,935 - INFO - 127.0.0.1 - - [09/Nov/2024 20:48:17] "GET / HTTP/1.1" 200 -
+2024-11-09 20:48:17,980 - INFO - 127.0.0.1 - - [09/Nov/2024 20:48:17] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 20:48:17,982 - INFO - 127.0.0.1 - - [09/Nov/2024 20:48:17] "[36mGET /static/logo.jpg HTTP/1.1[0m" 304 -
+2024-11-09 20:48:41,319 - INFO - 127.0.0.1 - - [09/Nov/2024 20:48:41] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 21:41:12,494 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-09 21:41:12,495 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-09 21:41:12,500 - INFO -  * Restarting with stat
+2024-11-09 21:41:14,197 - WARNING -  * Debugger is active!
+2024-11-09 21:41:14,212 - INFO -  * Debugger PIN: 953-426-833
+2024-11-09 21:41:19,836 - INFO - 127.0.0.1 - - [09/Nov/2024 21:41:19] "GET / HTTP/1.1" 200 -
+2024-11-09 21:41:20,078 - INFO - 127.0.0.1 - - [09/Nov/2024 21:41:20] "GET /static/styles.css HTTP/1.1" 200 -
+2024-11-09 21:41:20,464 - INFO - 127.0.0.1 - - [09/Nov/2024 21:41:20] "GET /static/logo.jpg HTTP/1.1" 200 -
+2024-11-09 21:41:21,211 - INFO - 127.0.0.1 - - [09/Nov/2024 21:41:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-11-09 21:43:11,144 - INFO - 127.0.0.1 - - [09/Nov/2024 21:43:11] "[32mPOST /customize_email HTTP/1.1[0m" 302 -
+2024-11-09 21:43:13,234 - INFO - 127.0.0.1 - - [09/Nov/2024 21:43:13] "GET /dashboard HTTP/1.1" 200 -
+2024-11-09 21:43:13,259 - INFO - 127.0.0.1 - - [09/Nov/2024 21:43:13] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 21:43:13,485 - INFO - 127.0.0.1 - - [09/Nov/2024 21:43:13] "[36mGET /static/logo.jpg HTTP/1.1[0m" 304 -
+2024-11-09 21:43:14,263 - INFO - 127.0.0.1 - - [09/Nov/2024 21:43:14] "GET /analytics HTTP/1.1" 200 -
