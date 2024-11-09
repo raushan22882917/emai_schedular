@@ -153,4 +153,3 @@ By following the above steps, you should be able to integrate email scheduling a
 
 ---
 
-This README file provides clear instructions on how to set up, configure, and use the email scheduling and throttling feature. If you'd like to provide a video demonstration, you can record your process using screen recording software (e.g., OBS Studio, Camtasia, etc.) and link the video here for your users.
