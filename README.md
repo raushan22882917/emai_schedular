@@ -6,6 +6,7 @@ This project demonstrates how to send emails with scheduling and throttling capa
 
 - [Setup and Configuration](#setup-and-configuration)
 - [Steps to Configure Email Scheduling and Throttling](#steps-to-configure-email-scheduling-and-throttling)
+- [Email Customization and Sending](#email-customization-and-sending)
 - [Usage Instructions](#usage-instructions)
 - [Optional: Video Demonstration](#optional-video-demonstration)
 - [Additional Resources](#additional-resources)
@@ -97,13 +98,81 @@ In this example, there’s a 60-second interval between email sends.
 
 ---
 
+## Email Customization and Sending
+
+### Content Generation
+
+For each row of data, the content of the email is customized based on the user’s prompt and the row data. This is done using an LLMs API, such as the **Groq API**, to generate a response that is tailored to each recipient.
+
+#### Example: Customizing Email Content Using Groq API
+
+You can integrate **Groq API** for generating personalized content based on the row data. Here's how you can structure it:
+
+```python
+import requests
+
+def generate_email_content(user_prompt, row_data):
+    api_key = "your_groq_api_key"
+    endpoint = "https://api.groq.com/generate"
+
+    payload = {
+        "prompt": user_prompt,
+        "row_data": row_data,
+    }
+
+    response = requests.post(endpoint, json=payload, headers={"Authorization": f"Bearer {api_key}"})
+    
+    if response.status_code == 200:
+        return response.json()["generated_content"]
+    else:
+        print("Error generating content:", response.text)
+        return None
+
+# Example of using the function
+row_data = {"name": "John Doe", "subscription": "Premium"}
+user_prompt = "Generate a welcome email for this user with their subscription plan."
+custom_content = generate_email_content(user_prompt, row_data)
+```
+
+### Email Sending
+
+Once the email content is generated, the next step is to customize the content for each recipient and send the email using the **Elastic Email API**.
+
+#### Example Code for Sending Emails:
+
+```python
+import requests
+
+def send_email(subject, body, to_email):
+    api_key = "your_elastic_email_api_key"
+    endpoint = "https://api.elasticemail.com/v4/email/send"
+
+    payload = {
+        "from": "your_email@example.com",
+        "to": to_email,
+        "subject": subject,
+        "body": body,
+        "apikey": api_key
+    }
+
+    response = requests.post(endpoint, data=payload)
+
+    if response.status_code == 200:
+        print(f"Email sent to {to_email}")
+    else:
+        print(f"Error sending email: {response.text}")
+```
+
+---
+
 ## Usage Instructions
 
 ### 1. **Configure the `.env` File**
-   - Ensure you have the `.env` file with your Elastic Email API key:
+   - Ensure you have the `.env` file with your Elastic Email API key and Groq API key:
 
     ```
     ELASTIC_EMAIL_API_KEY=your_api_key_here
+    GROQ_API_KEY=your_groq_api_key_here
     ```
 
 ### 2. **Email Scheduling**
@@ -112,8 +181,11 @@ In this example, there’s a 60-second interval between email sends.
 ### 3. **Email Throttling**
    - Implement throttling using `time.sleep()` or another mechanism to avoid exceeding Elastic Email's rate limits.
 
-### 4. **Running the Script**
-   - Execute the Python script that integrates Elastic Email API. This will trigger the email sending at scheduled times with throttling applied.
+### 4. **Generate Custom Content for Each Email**
+   - Use the **Groq API** to generate custom content for each recipient based on row data and the user’s prompt.
+
+### 5. **Running the Script**
+   - Execute the Python script that integrates Elastic Email API and Groq API. This will trigger the email sending at scheduled times with throttling applied.
 
 #### Example to Send Emails with Scheduling and Throttling:
 
@@ -128,7 +200,7 @@ def send_scheduled_email():
 send_email_with_throttling('Scheduled Subject', 'Scheduled Body', 'recipient@example.com', throttle_interval=120)
 ```
 
-### 5. **Monitor Sending Results**
+### 6. **Monitor Sending Results**
    - You can check the **Elastic Email Dashboard** for detailed reports about sent emails.
 
 ---
@@ -139,6 +211,13 @@ A short demonstration video is available to showcase how to set up and use the e
 
 [Watch the video demonstration here](https://drive.google.com/file/d/1iFXHgbsCyyy-O7j4ni-kKe7Zje2uqnb4/view?usp=sharing).
 
+---
+
+## Render Webpage
+
+You can access the web version of this project, where you can configure email scheduling and throttling, via the following link:
+
+[Visit the Webpage](https://email-schedular-zpn7.onrender.com)
 
 ---
 
@@ -147,10 +226,10 @@ A short demonstration video is available to showcase how to set up and use the e
 - [Elastic Email API Documentation](https://elasticemail.com/developers/)
 - [APScheduler Documentation](https://apscheduler.readthedocs.io/en/stable/)
 - [Python `requests` Library](https://requests.readthedocs.io/en/latest/)
+- [Groq API Documentation](https://groq.com/docs)
 
 ---
 
-By following the above steps, you should be able to integrate email scheduling and throttling into your project using the Elastic Email API.
+By following the above steps, you should be able to integrate email scheduling, throttling, and content customization into your project using the Elastic Email API and Groq API.
 
----
-
+--- 
