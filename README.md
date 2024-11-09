@@ -137,7 +137,8 @@ send_email_with_throttling('Scheduled Subject', 'Scheduled Body', 'recipient@exa
 
 A short demonstration video is available to showcase how to set up and use the email scheduling and throttling system with Elastic Email. This video will walk you through obtaining the API key, configuring the `.env` file, and running the email scheduler and throttle.
 
-[Watch the video demonstration here](#) *(Replace with actual video link if available)*.
+[Watch the video demonstration here](https://drive.google.com/file/d/1iFXHgbsCyyy-O7j4ni-kKe7Zje2uqnb4/view?usp=sharing).
+
 
 ---
 
