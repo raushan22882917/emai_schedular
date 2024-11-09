@@ -1,6 +1,3 @@
-Here's a more GitHub-oriented README, suitable for use in a GitHub repository. This version adds sections for contributing, issues, and version control, and also includes Markdown formatting to make it more user-friendly for a GitHub repository.
-
-```markdown
 # Email Scheduling and Throttling System
 
 ## Overview
@@ -35,7 +32,7 @@ To install the required packages, run the following command:
 
 ```bash
 pip install requests schedule python-dotenv
-```
+
 
 ## Setup and Configuration
 
@@ -127,10 +124,6 @@ for i in range(10):  # Example: Send 10 emails
 
 To run the scheduling script:
 
-```bash
-python schedule_emails.py
-```
-
 This will continuously check for scheduled emails and send them at the specified times with the configured throttling.
 
 ## Contributing
@@ -139,22 +132,18 @@ We welcome contributions to improve this project! Here are the steps to get star
 
 1. Fork the repository.
 2. Clone your forked repository to your local machine.
-   ```bash
    git clone https://github.com/your-username/email-scheduler-throttler.git
-   ```
+
 3. Create a new branch for your feature or bugfix.
-   ```bash
    git checkout -b feature-name
-   ```
-4. Make your changes and commit them.
-   ```bash
+
+5. Make your changes and commit them.
    git commit -m "Add new feature"
-   ```
-5. Push your changes to your forked repository.
-   ```bash
+   
+6. Push your changes to your forked repository.
    git push origin feature-name
-   ```
-6. Create a Pull Request on GitHub.
+   
+7. Create a Pull Request on GitHub.
 
 For large changes, please open an issue first to discuss the changes with the team.
 
@@ -166,10 +155,5 @@ If you encounter any bugs or have questions, please open an issue in the GitHub 
 
 To report an issue, please describe it clearly and include steps to reproduce the problem, if possible.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-This README is designed to be clear and informative for both users and potential contributors. It covers all necessary setup, configuration, usage instructions, and how others can contribute to the project, making it well-suited for a GitHub repository.
