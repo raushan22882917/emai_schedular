@@ -1,159 +1,132 @@
-# Email Scheduling and Throttling System
+#Project Documentation: Email Scheduling and Throttling
+This project allows you to schedule and throttle emails using Elastic Email as the Email Service Provider (ESP). Below are the instructions for setting up the project, configuring API keys, and managing email scheduling and throttling.
 
-## Overview
-This project enables automated email sending with scheduling and throttling capabilities using an Email Service Provider (ESP). The system allows for the configuration of API keys, email scheduling, and throttling to avoid exceeding the ESP's rate limits. It provides an easy-to-use interface to send emails at specified times, while also ensuring that you don't exceed the sending rate limits imposed by your ESP.
+Setup and Configuration Instructions
+1. Obtain API Key from Elastic Email
+To use Elastic Email's service for sending emails programmatically, you need to obtain an API key.
 
-## Table of Contents
-1. [Prerequisites](#prerequisites)
-2. [Setup and Configuration](#setup-and-configuration)
-   - [Obtaining API Keys](#obtaining-api-keys)
-   - [Configuring API Keys](#configuring-api-keys)
-3. [Email Scheduling and Throttling](#email-scheduling-and-throttling)
-   - [Scheduling Emails](#scheduling-emails)
-   - [Configuring Throttling](#configuring-throttling)
-4. [Usage Instructions](#usage-instructions)
-5. [Contributing](#contributing)
-6. [Issues](#issues)
-7. [License](#license)
+Steps to get the API key:
+Go to the Elastic Email website.
+Log in to your account, or sign up if you don’t have an account.
+Once logged in, go to Account > API Keys in the dashboard.
+Create a new API key by clicking Add API Key. You can give it a name and set the required permissions (read, write, etc.).
+Copy the generated API key for use in the project.
+2. Configure Elastic Email API Key in Your Project
+To integrate Elastic Email API into your project, follow these steps:
 
-## Prerequisites
-Before setting up this project, ensure that you have the following:
+Step 1: Create a .env file in your project directory (if it does not already exist).
 
-- Python 3.x or above
-- An active Email Service Provider (ESP) account (e.g., SendGrid, Mailgun, or similar)
-- Access to a terminal/command line interface
+Step 2: Add the following environment variable to the .env file:
 
-### Required Python Packages:
-1. `requests` - For making HTTP requests to the ESP API.
-2. `schedule` - For scheduling email tasks.
-3. `time` - For handling timing and delays in the system.
+makefile
+Copy code
+ELASTIC_EMAIL_API_KEY=your_api_key_here
+Replace your_api_key_here with the API key you obtained from Elastic Email.
 
-To install the required packages, run the following command:
+Step 3: Use a library like requests or elasticemail (Python SDK) to make API calls to send emails programmatically.
 
-```bash
-pip install requests schedule python-dotenv
+Example of using the requests library to send an email:
 
+python
+Copy code
+import requests
+import os
 
-## Setup and Configuration
+# Fetch API key from environment variable
+api_key = os.getenv("ELASTIC_EMAIL_API_KEY")
 
-### Obtaining API Keys
-1. **Create an account** with your chosen ESP (e.g., SendGrid, Mailgun, etc.).
-2. Navigate to the **API settings** section of your ESP's dashboard to generate an **API key**.
-   - **For SendGrid**: Visit [SendGrid API Key Generation](https://app.sendgrid.com/settings/api_keys).
-   - **For Mailgun**: Visit [Mailgun API Key Generation](https://app.mailgun.com/app/account/security).
-3. Copy the **generated API key** to use in the configuration step.
+def send_email(subject, body, to_email):
+    url = "https://api.elasticemail.com/v4/emails"
+    data = {
+        'apikey': api_key,
+        'from': 'your_email@example.com',
+        'to': to_email,
+        'subject': subject,
+        'bodyHtml': body
+    }
+    response = requests.post(url, data=data)
+    return response.json()
 
-### Configuring API Keys
-1. Create a `.env` file in the project directory (if it doesn't already exist).
-2. Add your ESP API key to this file using the following format:
-   ```env
-   ESP_API_KEY=your_api_key_here
-   ```
-3. Ensure the `.env` file is added to `.gitignore` to keep your API key secure.
+# Example usage
+response = send_email('Test Subject', 'Test Body', 'recipient@example.com')
+print(response)
+3. Install Required Dependencies
+Install any required libraries using pip:
 
-4. Load the `.env` file in your Python code:
+bash
+Copy code
+pip install requests
+Steps to Configure Email Scheduling and Throttling
+Email Scheduling
+Elastic Email does not directly offer scheduling features via the API, but you can handle this functionality by using Python’s scheduling libraries like APScheduler or schedule to delay or run email sending tasks at specific intervals.
 
-   ```python
-   from dotenv import load_dotenv
-   import os
+Example of Email Scheduling using APScheduler:
+Install APScheduler:
 
-   load_dotenv()
+bash
+Copy code
+pip install apscheduler
+Code to schedule the sending of emails:
 
-   ESP_API_KEY = os.getenv('ESP_API_KEY')
-   ```
-
-## Email Scheduling and Throttling
-
-### Scheduling Emails
-To schedule an email, specify the recipient, subject, body, and send time. Use the `schedule` library to define when the email will be sent.
-
-Example code to schedule an email:
-
-```python
-import schedule
-import time
+python
+Copy code
+from apscheduler.schedulers.blocking import BlockingScheduler
 from datetime import datetime
-import send_email_function  # Import the function to send emails
 
-# Function to send email
-def send_email():
-    recipient = "recipient@example.com"
-    subject = "Test Email"
-    body = "This is a test email."
-    send_email_function.send_email_via_ESP(recipient, subject, body)
+scheduler = BlockingScheduler()
 
-# Schedule the email to be sent at a specific time
-schedule_time = "2024-11-09 10:00:00"  # Example: set the date and time
-schedule.every().day.at(schedule_time).do(send_email)
+def send_scheduled_email():
+    subject = "Scheduled Email"
+    body = "This is a scheduled email."
+    to_email = "recipient@example.com"
+    send_email(subject, body, to_email)
+    print(f"Email sent at {datetime.now()}")
 
-while True:
-    schedule.run_pending()
-    time.sleep(1)
-```
+# Schedule the email to send at a specific time (e.g., 10:30 AM every day)
+scheduler.add_job(send_scheduled_email, 'interval', hours=24, start_date='2024-11-10 10:30:00')
+scheduler.start()
+In this example, the email will be sent every 24 hours starting at 10:30 AM on November 10, 2024.
 
-You can replace `send_email_function.send_email_via_ESP()` with your actual ESP API call logic.
+Email Throttling
+Elastic Email allows you to manage email sending rate using throttling by controlling the interval between email sends. You can implement throttling manually in your script using Python’s time.sleep() function.
 
-### Configuring Throttling
-To configure throttling, set a maximum number of emails to be sent per minute to avoid hitting ESP rate limits.
-
-Example code for throttling:
-
-```python
+Example of Email Throttling:
+python
+Copy code
 import time
-import send_email_function  # Import the function to send emails
 
-MAX_EMAILS_PER_MINUTE = 5
-EMAIL_DELAY = 60 / MAX_EMAILS_PER_MINUTE  # Delay between emails to throttle the rate
+def send_email_with_throttling(subject, body, to_email, throttle_interval=60):
+    # Send the email
+    send_email(subject, body, to_email)
+    print(f"Email sent to {to_email}")
+    
+    # Throttle the sending of emails by waiting for a specified time (in seconds)
+    time.sleep(throttle_interval)  # e.g., wait 60 seconds before sending the next email
 
-def send_email_throttled():
-    # Your email sending logic here
-    send_email_function.send_email_via_ESP()
+# Example usage with throttling:
+send_email_with_throttling('Test Subject', 'Test Body', 'recipient1@example.com', throttle_interval=60)
+send_email_with_throttling('Test Subject', 'Test Body', 'recipient2@example.com', throttle_interval=60)
+In this example, emails will be sent with a 60-second interval between them, helping to avoid hitting Elastic Email’s rate limits.
 
-# Send emails with throttling
-for i in range(10):  # Example: Send 10 emails
-    send_email_throttled()
-    time.sleep(EMAIL_DELAY)
-```
+Usage Instructions
+Configure the .env File:
 
-## Usage Instructions
+Create a .env file in the project directory.
+Add your Elastic Email API key as shown in the configuration section.
+Schedule Emails:
 
-1. **Set up the environment** by following the configuration steps mentioned earlier.
-2. **Configure email scheduling** using the `schedule` library to specify when emails should be sent.
-3. **Apply throttling** to ensure the number of emails sent per minute doesn't exceed the limit imposed by your ESP.
-4. **Run the script** to start the scheduling process.
+Use the APScheduler or schedule library to schedule emails at the desired intervals.
+Modify the scheduling code to match your use case (e.g., specific times, dates, or recurring schedules).
+Throttle Email Sends:
 
-To run the scheduling script:
+Use the time.sleep() function to implement throttling and avoid exceeding Elastic Email’s rate limits.
+Run the Script:
 
-This will continuously check for scheduled emails and send them at the specified times with the configured throttling.
+Once configured, run the Python script to start sending emails according to the schedule and throttle settings.
+Monitor:
 
-## Contributing
-
-We welcome contributions to improve this project! Here are the steps to get started:
-
-1. Fork the repository.
-2. Clone your forked repository to your local machine.
-   git clone https://github.com/your-username/email-scheduler-throttler.git
-
-3. Create a new branch for your feature or bugfix.
-   git checkout -b feature-name
-
-5. Make your changes and commit them.
-   git commit -m "Add new feature"
-   
-6. Push your changes to your forked repository.
-   git push origin feature-name
-   
-7. Create a Pull Request on GitHub.
-
-For large changes, please open an issue first to discuss the changes with the team.
-
-## Issues
-If you encounter any bugs or have questions, please open an issue in the GitHub repository. Here are some common issues you might encounter:
-- API key authentication errors
-- Email throttling not working as expected
-- Scheduling emails not executing correctly
-
-To report an issue, please describe it clearly and include steps to reproduce the problem, if possible.
-
-
-
+You can check the Elastic Email dashboard to monitor email sends and track the success or failure of each email.
+Additional Resources
+Elastic Email API Documentation
+APScheduler Documentation
+This README provides a simple guide to integrating Elastic Email with scheduling and throttling functionality. Adjust the configurations as necessary to meet your specific requirements.
