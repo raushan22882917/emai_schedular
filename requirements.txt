@@ -1,9 +1,8 @@
 requests
-apscheduler
+APScheduler
 gspread
 oauth2client
-flask
-psycopg2
-dotenv
-logging
+Flask
+psycopg2-binary
+python-dotenv
 gunicorn
