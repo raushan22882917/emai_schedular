@@ -1,7 +1,6 @@
-
 # Email Scheduling and Throttling with Elastic Email
 
-This project demonstrates how to send emails with scheduling and throttling capabilities using the **Elastic Email API**. The system is designed to handle email campaigns with custom intervals and throttled sends, preventing overloading the email service.
+This project demonstrates how to send emails with scheduling and throttling capabilities using the **Elastic Email API**. The system is designed to send emails with custom intervals and throttling, helping to manage the sending rate and prevent overloading the email service.
 
 ## Table of Contents
 
