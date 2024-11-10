@@ -276,7 +276,7 @@ def dashboard():
     current_hour = now.replace(minute=0, second=0, microsecond=0)
     hours = [(current_hour - timedelta(hours=i)).strftime('%Y-%m-%d %H:%M:%S') for i in range(24)]
 
-    API_KEY = "AFDAD532B629635AABD9B940250EB1DDA007AF5CBA73EF958B0FC792DEA21F2F8F033AE18DE86E814F67B21C90C3BBA7"
+    API_KEY = "#######################"
     ELASTIC_EMAIL_URL = "https://api.elasticemail.com/v4/statistics"
 
     from_date = "2024-01-01T00:00:00"
