@@ -241,7 +241,7 @@ You can access the web version of this project, where you can configure email sc
 - [APScheduler Documentation](https://apscheduler.readthedocs.io/en/stable/)
 - [Python `requests` Library](https://requests.readthedocs.io/en/latest/)
 - [Groq API Documentation](https://groq.com/docs)
-- [Google Cloud Service Accounts](https://
+- [Google Cloud Service Accounts](https://console.cloud.google.com/)
 
 cloud.google.com/iam/docs/service-accounts)
 
