@@ -1,3 +1,4 @@
+
 # Email Scheduling and Throttling with Elastic Email
 
 This project demonstrates how to send emails with scheduling and throttling capabilities using the **Elastic Email API**. The system is designed to handle email campaigns with custom intervals and throttled sends, preventing overloading the email service.
@@ -25,18 +26,31 @@ To use Elastic Email for sending emails programmatically, you need an API key. F
 4. Click **Add API Key**, name your key, and select the permissions (read, write, etc.).
 5. Copy the generated API key. You’ll need it to configure the email sending script.
 
-### 2. **Configure API Key in Your Project**
+### 2. **Get Service Account JSON from Google Cloud Console**
 
-You need to securely store and use your API key. Follow these steps:
+To integrate with Google Cloud APIs, such as using Google Sheets for data storage or Google Drive for file access, you will need a **service account JSON file** from Google Cloud Console.
+
+#### Steps to Obtain a Service Account JSON File:
+
+1. Go to the [Google Cloud Console](https://console.cloud.google.com/).
+2. Navigate to **IAM & Admin** > **Service Accounts**.
+3. Click **Create Service Account** and fill out the required information.
+4. Once the service account is created, go to the **Keys** section and click **Add Key** > **Create new key**.
+5. Select **JSON** and download the file. This file contains your service account credentials.
+6. Place this JSON file in your project’s root directory and name it `service-account.json` (or any other preferred name).
+
+### 3. **Configure API Keys and Service Account in Your Project**
 
 1. Create a `.env` file in your project’s root directory (if it doesn't already exist).
-2. Add your Elastic Email API key to the `.env` file as follows:
+2. Add your Elastic Email API key and Google service account path to the `.env` file as follows:
 
     ```
-    ELASTIC_EMAIL_API_KEY=your_api_key_here
+    ELASTIC_EMAIL_API_KEY=your_elastic_email_api_key
+    GROQ_API_KEY=your_groq_api_key
+    GOOGLE_APPLICATION_CREDENTIALS=service-account.json
     ```
 
-3. Ensure that your Python script can access this key using the `os.getenv()` method.
+3. Ensure that your Python script can access these keys using the `os.getenv()` method.
 
 ---
 
@@ -168,11 +182,12 @@ def send_email(subject, body, to_email):
 ## Usage Instructions
 
 ### 1. **Configure the `.env` File**
-   - Ensure you have the `.env` file with your Elastic Email API key and Groq API key:
+   - Ensure you have the `.env` file with your Elastic Email API key, Groq API key, and Google service account JSON path:
 
     ```
-    ELASTIC_EMAIL_API_KEY=your_api_key_here
-    GROQ_API_KEY=your_groq_api_key_here
+    ELASTIC_EMAIL_API_KEY=your_elastic_email_api_key
+    GROQ_API_KEY=your_groq_api_key
+    GOOGLE_APPLICATION_CREDENTIALS=service-account.json
     ```
 
 ### 2. **Email Scheduling**
@@ -227,9 +242,8 @@ You can access the web version of this project, where you can configure email sc
 - [APScheduler Documentation](https://apscheduler.readthedocs.io/en/stable/)
 - [Python `requests` Library](https://requests.readthedocs.io/en/latest/)
 - [Groq API Documentation](https://groq.com/docs)
+- [Google Cloud Service Accounts](https://
+
+cloud.google.com/iam/docs/service-accounts)
 
 ---
-
-By following the above steps, you should be able to integrate email scheduling, throttling, and content customization into your project using the Elastic Email API and Groq API.
-
---- 
